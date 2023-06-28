@@ -118,3 +118,7 @@ Name | Description | GitHub Activity
 * [browser.toast.ooo](https://browse.toast.ooo/communities)
 * [lemmymap.feddit.de](https://lemmymap.feddit.de/)
 * [the-federation.info/platform/73](https://the-federation.info/platform/73)
+
+## Credits
+
+* [awesome-scala](https://github.com/lauris/awesome-scala) - This project was originally forked from awesome-scala.
