@@ -93,6 +93,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [rileynull/RedditLemmyImporter](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
+* [FackJox/lemmy-link](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
