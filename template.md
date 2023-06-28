@@ -15,14 +15,18 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ## Table of Contents
 
-- [Lemmy](#lemmy)
-- [Instances](#instances)
-- [Alternative front-ends](#alternative-front-ends)
-- [Mobile Apps](#mobile-apps)
-- [Libraries](#libraries)
-- [Tools](#tools)
-- [Guides](#guides)
+- [Projects](#projects)
+  - [Lemmy](#lemmy)
+  - [Instances](#instances)
+  - [Alternative front-ends](#alternative-front-ends)
+  - [Mobile Apps](#mobile-apps)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
+  - [Guides](#guides)
 - [Misc.](#misc)
+- [Credits](#credits)
+
+## Projects
 
 ### Lemmy
 
