@@ -21,6 +21,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Mobile Apps](#mobile-apps)
 - [Libraries](#libraries)
 - [Tools](#tools)
+- [Guides](#guides)
 - [Misc.](#misc)
 
 ### Lemmy
