@@ -57,7 +57,7 @@ Name | Description | GitHub Activity
 [slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy)
 [wefwef](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef)
 [lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte)
-[sx-lemmy](https://github.com/sheodox/sx-lemmy) | A (WIP) alternative web UI for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/sheodox/sx-lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/sx-lemmy)
+[sx-lemmy](https://github.com/sheodox/sx-lemmy) | A beautiful and convenient desktop-first web UI for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/sheodox/sx-lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/sx-lemmy)
 [lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa)
 [lemonade](https://github.com/mdwalters/lemonade) | A Lemmy client written in Python, using GTK 4 and libadwaita | ![GitHub stars](https://img.shields.io/github/stars/mdwalters/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdwalters/lemonade)
 
@@ -106,6 +106,7 @@ Name | Description | GitHub Activity
 [Lemmy-Mega-Bot](https://github.com/Ategon/Lemmy-Mega-Bot) | A lemmy bot that watches rss feeds and posts new posts from them in communities | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Mega-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Mega-Bot)
 [Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) | A lemmy bot that auto posts threads in communities at given times | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Frank-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Frank-Bot)
 [lemmy_helper](https://github.com/RocketDerp/lemmy_helper) | Lemmy admin helper webapp for server operators | ![GitHub stars](https://img.shields.io/github/stars/RocketDerp/lemmy_helper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RocketDerp/lemmy_helper)
+[lcs](https://github.com/Fmstrat/lcs) | Lemmy Community Seeder (LCS) | ![GitHub stars](https://img.shields.io/github/stars/Fmstrat/lcs) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Fmstrat/lcs)
 
 ### Guides
 
