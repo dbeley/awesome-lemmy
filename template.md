@@ -84,7 +84,7 @@ Name | Description | GitHub Activity
 * [db0/pythorhead](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
 * [tjkessler/plemmy](@ghRepo)
-* [hijangsu/lemmy-dart](@ghRepo)
+* [hjiangsu/lemmy-dart](@ghRepo)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
 ### Tools
