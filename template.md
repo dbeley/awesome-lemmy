@@ -81,7 +81,10 @@ Name | Description | GitHub Activity
 * [derivator/tafkars](@ghRepo)
 * [LemmyNet/lemmy-js-client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
-[go-lemmy](https://gitea.elara.ws/Elara6331/go-lemmy) | Go bindings to the Lemmy API |
+* [Elara6331/go-lemmy](@ghRepo)
+* [tjkessler/plemmy](@ghRepo)
+* [hijangsu/lemmy-dart](@ghRepo)
+[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
 ### Tools
 
@@ -90,10 +93,22 @@ Name | Description | GitHub Activity
 * [rileynull/RedditLemmyImporter](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
+* [tgxn/lemmy-explorer](@ghRepo)
+* [LemmyNet/lemmy-stats-crawler](@ghRepo)
+* [Elara6331/lemmy-reply-bot](@ghRepo)
+* [Ategon/Lemmy-Mega-Bot](@ghRepo)
+* [Ategon/Lemmy-Frank-Bot](@ghRepo)
+* [RocketDerp/lemmy_helper](@ghRepo)
+
+### Guides
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+* [amirzaidi/lemmy](@ghRepo)
 
 ## Misc.
 
-* [join-lemmy.org](https://join-lemmy.org/)
+* [join-lemmy.org](https://join-lemmy.org/) - The official website for Lemmy.
 * [lemmyverse.net](https://lemmyverse.net)
 * [fedidb.org/software/lemmy](https://fedidb.org/software/lemmy)
 * [lemmy.fediverse.observer](https://lemmy.fediverse.observer/list)
