@@ -31,7 +31,9 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**lemmy**](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy)
+
 [**lemmy-ui**](https://github.com/LemmyNet/lemmy-ui) | The official web app for lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ui) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ui)
+
 
 ### Instances
 
@@ -41,6 +43,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**awesome-lemmy-instances**](https://github.com/maltfield/awesome-lemmy-instances) | Comparison of different Lemmy Instances | ![GitHub stars](https://img.shields.io/github/stars/maltfield/awesome-lemmy-instances) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/maltfield/awesome-lemmy-instances)
 
+
 ### Alternative front-ends
 
 *Alternative front-ends for Lemmy.*
@@ -48,30 +51,48 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB)
+
 [neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | ![GitHub stars](https://img.shields.io/github/stars/mrusme/neonmodem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrusme/neonmodem)
+
 [slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy)
+
 [wefwef](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef)
+
 [lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte)
+
 [sx-lemmy](https://github.com/sheodox/sx-lemmy) | A (WIP) alternative web UI for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/sheodox/sx-lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/sx-lemmy)
+
+[lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa)
+
+[lemonade](https://github.com/mdwalters/lemonade) | A Lemmy client written in Python, using GTK 4 and libadwaita | ![GitHub stars](https://img.shields.io/github/stars/mdwalters/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdwalters/lemonade)
+
 
 ### Mobile Apps
 
 *Mobile apps to access Lemmy.*
 
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-[**jerboa**](https://github.com/dessalines/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/dessalines/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dessalines/jerboa)
-[**Mlem**](https://github.com/mormaer/Mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mormaer/Mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mormaer/Mlem)
-[thunder](https://github.com/hjiangsu/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/thunder)
-[memmy](https://github.com/gkasdorf/memmy) | An iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/gkasdorf/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gkasdorf/memmy)
-[liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff)
-[lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa)
-[Lemmy-Swift-Client](https://github.com/rrainn/Lemmy-Swift-Client) | A Swift client for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/rrainn/Lemmy-Swift-Client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rrainn/Lemmy-Swift-Client)
-[lemonade](https://github.com/mdwalters/lemonade) | A Lemmy client written in Python, using GTK 4 and libadwaita | ![GitHub stars](https://img.shields.io/github/stars/mdwalters/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdwalters/lemonade)
-[lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec)
-[ares](https://github.com/lyptt/ares) | WIP iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lyptt/ares) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lyptt/ares)
-[warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami)
-[lemmur](https://github.com/LemmurOrg/lemmur) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/LemmurOrg/lemmur) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmurOrg/lemmur)
+Name | Description | GitHub Activity | OS compatibility
+---- | ----------- | --------------- | ----------------
+[**jerboa**](https://github.com/dessalines/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/dessalines/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dessalines/jerboa) | Android
+
+[**Mlem**](https://github.com/mormaer/Mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mormaer/Mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mormaer/Mlem) | iOS
+
+[thunder](https://github.com/hjiangsu/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/thunder) | Android, iOS
+
+[memmy](https://github.com/gkasdorf/memmy) | An iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/gkasdorf/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gkasdorf/memmy) | iOS
+
+[liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff) | Android, iOS
+
+[Lemmy-Swift-Client](https://github.com/rrainn/Lemmy-Swift-Client) | A Swift client for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/rrainn/Lemmy-Swift-Client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rrainn/Lemmy-Swift-Client) | iOS
+
+[lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec) | Android
+
+[ares](https://github.com/lyptt/ares) | WIP iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lyptt/ares) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lyptt/ares) | iOS
+
+[warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
+
+[lemmur](https://github.com/LemmurOrg/lemmur) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/LemmurOrg/lemmur) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmurOrg/lemmur) | Android
+
 
 ### Libraries
 
@@ -80,8 +101,11 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [tafkars](https://github.com/derivator/tafkars) | None | ![GitHub stars](https://img.shields.io/github/stars/derivator/tafkars) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/derivator/tafkars)
+
 [lemmy-js-client](https://github.com/LemmyNet/lemmy-js-client) | A javascript / typescript http and websocket client and type system for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-js-client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-js-client)
+
 [pythorhead](https://github.com/db0/pythorhead) | A python library for interacting with Lemmy | ![GitHub stars](https://img.shields.io/github/stars/db0/pythorhead) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/db0/pythorhead)
+
 [go-lemmy](https://gitea.elara.ws/Elara6331/go-lemmy) | Go bindings to the Lemmy API |
 
 ### Tools
@@ -89,8 +113,11 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [RedditLemmyImporter](https://github.com/rileynull/RedditLemmyImporter) | 🔥 Anti-Reddit Aktion 🔥 | ![GitHub stars](https://img.shields.io/github/stars/rileynull/RedditLemmyImporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rileynull/RedditLemmyImporter)
+
 [lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) | A bot library for Lemmy, the fediverse link aggregator. | ![GitHub stars](https://img.shields.io/github/stars/SleeplessOne1917/lemmy-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SleeplessOne1917/lemmy-bot)
+
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
+
 
 ## Misc.
 
