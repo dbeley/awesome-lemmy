@@ -22,6 +22,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Mobile Apps](#mobile-apps)
 - [Libraries](#libraries)
 - [Tools](#tools)
+- [Guides](#guides)
 - [Misc.](#misc)
 
 ### Lemmy
@@ -82,7 +83,10 @@ Name | Description | GitHub Activity
 [tafkars](https://github.com/derivator/tafkars) | None | ![GitHub stars](https://img.shields.io/github/stars/derivator/tafkars) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/derivator/tafkars)
 [lemmy-js-client](https://github.com/LemmyNet/lemmy-js-client) | A javascript / typescript http and websocket client and type system for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-js-client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-js-client)
 [pythorhead](https://github.com/db0/pythorhead) | A python library for interacting with Lemmy | ![GitHub stars](https://img.shields.io/github/stars/db0/pythorhead) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/db0/pythorhead)
-[go-lemmy](https://gitea.elara.ws/Elara6331/go-lemmy) | Go bindings to the Lemmy API |
+[go-lemmy](https://github.com/Elara6331/go-lemmy) | Go API bindings for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/Elara6331/go-lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Elara6331/go-lemmy)
+[plemmy](https://github.com/tjkessler/plemmy) | A Python package for accessing the LemmyHttp API | ![GitHub stars](https://img.shields.io/github/stars/tjkessler/plemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tjkessler/plemmy)
+[lemmy-dart](https://github.com/hjiangsu/lemmy-dart) | A Lemmy library written in Dart. | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/lemmy-dart) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/lemmy-dart)
+[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
 ### Tools
 
@@ -91,10 +95,22 @@ Name | Description | GitHub Activity
 [RedditLemmyImporter](https://github.com/rileynull/RedditLemmyImporter) | 🔥 Anti-Reddit Aktion 🔥 | ![GitHub stars](https://img.shields.io/github/stars/rileynull/RedditLemmyImporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rileynull/RedditLemmyImporter)
 [lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) | A bot library for Lemmy, the fediverse link aggregator. | ![GitHub stars](https://img.shields.io/github/stars/SleeplessOne1917/lemmy-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SleeplessOne1917/lemmy-bot)
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
+[lemmy-explorer](https://github.com/tgxn/lemmy-explorer) | Instance and Community Explorer for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/tgxn/lemmy-explorer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tgxn/lemmy-explorer)
+[lemmy-stats-crawler](https://github.com/LemmyNet/lemmy-stats-crawler) | None | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-stats-crawler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-stats-crawler)
+[lemmy-reply-bot](https://github.com/Elara6331/lemmy-reply-bot) | A customizable Lemmy bot that replies to comments | ![GitHub stars](https://img.shields.io/github/stars/Elara6331/lemmy-reply-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Elara6331/lemmy-reply-bot)
+[Lemmy-Mega-Bot](https://github.com/Ategon/Lemmy-Mega-Bot) | A lemmy bot that watches rss feeds and posts new posts from them in communities | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Mega-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Mega-Bot)
+[Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) | A lemmy bot that auto posts threads in communities at given times | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Frank-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Frank-Bot)
+[lemmy_helper](https://github.com/RocketDerp/lemmy_helper) | Lemmy admin helper webapp for server operators | ![GitHub stars](https://img.shields.io/github/stars/RocketDerp/lemmy_helper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RocketDerp/lemmy_helper)
+
+### Guides
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+[lemmy](https://github.com/amirzaidi/lemmy) | Lemmy - Beginner's Guide for Redditors | ![GitHub stars](https://img.shields.io/github/stars/amirzaidi/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/amirzaidi/lemmy)
 
 ## Misc.
 
-* [join-lemmy.org](https://join-lemmy.org/)
+* [join-lemmy.org](https://join-lemmy.org/) - The official website for Lemmy.
 * [lemmyverse.net](https://lemmyverse.net)
 * [fedidb.org/software/lemmy](https://fedidb.org/software/lemmy)
 * [lemmy.fediverse.observer](https://lemmy.fediverse.observer/list)
