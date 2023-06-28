@@ -59,7 +59,7 @@ def parse(line):
     m = gh_repo_regex.search(line)
     if m:
         [repo_name] = m.groups()
-        return github_table_row(retrieve_repo(repo_name)) + line.rsplit("(@ghRepo)", 1)[-1]
+        return github_table_row(retrieve_repo(repo_name)) + line.rsplit("(@ghRepo)", 1)[-1].rstrip()
     else:
         return line.rstrip()
 
