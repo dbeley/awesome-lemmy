@@ -71,7 +71,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [hjiangsu/thunder](@ghRepo) | Android, iOS
 * [gkasdorf/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
-* [rrainn/Lemmy-Swift-Client](@ghRepo) | iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
 * [mdpearce/warami](@ghRepo) | Android
@@ -85,6 +84,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [derivator/tafkars](@ghRepo)
 * [LemmyNet/lemmy-js-client](@ghRepo)
+* [rrainn/Lemmy-Swift-Client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
 * [tjkessler/plemmy](@ghRepo)
