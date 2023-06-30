@@ -1,5 +1,6 @@
 *.class
 *.log
+.DS_Store
 
 # sbt specific
 .cache/
@@ -13,5 +14,9 @@ project/boot/
 project/plugins/project/
 
 # Scala-IDE specific
+.idea
 .scala_dependencies
 .worksheet
+
+# project specific
+.access-token
