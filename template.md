@@ -71,6 +71,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [hjiangsu/thunder](@ghRepo) | Android, iOS
 * [gkasdorf/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
+* [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
 * [mdpearce/warami](@ghRepo) | Android
@@ -106,6 +107,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
+* [marsara9/lemmy-search](@ghRepo)
 
 ### Guides
 
