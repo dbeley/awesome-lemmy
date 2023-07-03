@@ -92,6 +92,7 @@ Name | Description | GitHub Activity
 * [hjiangsu/lemmy-dart](@ghRepo)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 * [Rickebo/Lemmy.Net](@ghRepo)
+* [ydinkov/Lemmy.Net](@ghRepo)
 
 ### Tools
 
