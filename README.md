@@ -68,7 +68,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
 [**jerboa**](https://github.com/dessalines/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/dessalines/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dessalines/jerboa) | Android
-[**Mlem**](https://github.com/mormaer/Mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mormaer/Mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mormaer/Mlem) | iOS
+[**mormaer-mlem**](https://github.com/mlemgroup/mormaer-mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mlemgroup/mormaer-mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mlemgroup/mormaer-mlem) | iOS
 [thunder](https://github.com/hjiangsu/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/thunder) | Android, iOS
 [memmy](https://github.com/Memmy-App/memmy) | An iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/Memmy-App/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Memmy-App/memmy) | iOS
 [liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff) | Android, iOS
@@ -92,6 +92,7 @@ Name | Description | GitHub Activity
 [plemmy](https://github.com/tjkessler/plemmy) | A Python package for accessing the LemmyHttp API | ![GitHub stars](https://img.shields.io/github/stars/tjkessler/plemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tjkessler/plemmy)
 [lemmy-dart](https://github.com/hjiangsu/lemmy-dart) | A Lemmy library written in Dart. | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/lemmy-dart) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/lemmy-dart)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
+[Lemmy.Net](https://github.com/Rickebo/Lemmy.Net) | A Lemmy API wrapper for .NET | ![GitHub stars](https://img.shields.io/github/stars/Rickebo/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Rickebo/Lemmy.Net)
 
 ### Tools
 
