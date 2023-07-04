@@ -75,7 +75,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
 * [mdpearce/warami](@ghRepo) | Android
-* [LemmurOrg/lemmur](@ghRepo) | Android
 
 ### Libraries
 
