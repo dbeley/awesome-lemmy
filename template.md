@@ -93,6 +93,7 @@ Name | Description | GitHub Activity
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
+* [mdowst/Lemmy-PowerShell](@ghRepo)
 
 ### Tools
 
