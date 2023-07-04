@@ -94,6 +94,7 @@ Name | Description | GitHub Activity
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 [Lemmy.Net](https://github.com/Rickebo/Lemmy.Net) | A Lemmy API wrapper for .NET | ![GitHub stars](https://img.shields.io/github/stars/Rickebo/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Rickebo/Lemmy.Net)
 [Lemmy.Net](https://github.com/ydinkov/Lemmy.Net) | A Dependency Injected HttpClient for the Lemmy API in dotnet | ![GitHub stars](https://img.shields.io/github/stars/ydinkov/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ydinkov/Lemmy.Net)
+[Lemmy-PowerShell](https://github.com/mdowst/Lemmy-PowerShell) | A PowerShell module for interacting with Lemmy | ![GitHub stars](https://img.shields.io/github/stars/mdowst/Lemmy-PowerShell) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdowst/Lemmy-PowerShell)
 
 ### Tools
 
