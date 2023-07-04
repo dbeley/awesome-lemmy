@@ -67,7 +67,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
 * [dessalines/jerboa](@ghRepo) | Android
-* [mormaer/Mlem](@ghRepo) | iOS
+* [mlemgroup/mlem](@ghRepo) | iOS
 * [hjiangsu/thunder](@ghRepo) | Android, iOS
 * [gkasdorf/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
