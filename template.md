@@ -51,14 +51,14 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [LemmyNet/lemmyBB](@ghRepo)
-* [mrusme/neonmodem](@ghRepo)
-* [diamondburned/slemmy](@ghRepo)
 * [aeharding/wefwef](@ghRepo)
-* [ando818/lemmy-ui-svelte](@ghRepo)
-* [sheodox/sx-lemmy](@ghRepo)
+* [mrusme/neonmodem](@ghRepo)
+* [LemmyNet/lemmyBB](@ghRepo)
 * [lemmygtk/lemoa](@ghRepo)
 * [mdwalters/lemonade](@ghRepo)
+* [diamondburned/slemmy](@ghRepo)
+* [ando818/lemmy-ui-svelte](@ghRepo)
+* [sheodox/sx-lemmy](@ghRepo)
 
 ### Mobile Apps
 
@@ -69,12 +69,12 @@ Name | Description | GitHub Activity | OS compatibility
 * [dessalines/jerboa](@ghRepo) | Android
 * [mlemgroup/mlem](@ghRepo) | iOS
 * [hjiangsu/thunder](@ghRepo) | Android, iOS
-* [gkasdorf/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
+* [gkasdorf/memmy](@ghRepo) | iOS
 * [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
-* [lyptt/ares](@ghRepo) | iOS
 * [mdpearce/warami](@ghRepo) | Android
+* [lyptt/ares](@ghRepo) | iOS
 
 ### Libraries
 
@@ -86,13 +86,13 @@ Name | Description | GitHub Activity
 * [LemmyNet/lemmy-js-client](@ghRepo)
 * [rrainn/Lemmy-Swift-Client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
-* [Elara6331/go-lemmy](@ghRepo)
 * [tjkessler/plemmy](@ghRepo)
+* [Elara6331/go-lemmy](@ghRepo)
 * [hjiangsu/lemmy-dart](@ghRepo)
-[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
-* [Rickebo/Lemmy.Net](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
 * [mdowst/Lemmy-PowerShell](@ghRepo)
+* [Rickebo/Lemmy.Net](@ghRepo)
+[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
 ### Tools
 
@@ -100,16 +100,16 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [rileynull/RedditLemmyImporter](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
+* [marsara9/lemmy-search](@ghRepo)
+* [tgxn/lemmy-explorer](@ghRepo)
+* [Fmstrat/lcs](@ghRepo)
 * [FackJox/lemmy-link](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
-* [tgxn/lemmy-explorer](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
-* [Fmstrat/lcs](@ghRepo)
-* [marsara9/lemmy-search](@ghRepo)
 
 ### Guides
 
