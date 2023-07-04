@@ -93,6 +93,7 @@ Name | Description | GitHub Activity
 [lemmy-dart](https://github.com/hjiangsu/lemmy-dart) | A Lemmy library written in Dart. | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/lemmy-dart) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/lemmy-dart)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 [Lemmy.Net](https://github.com/Rickebo/Lemmy.Net) | A Lemmy API wrapper for .NET | ![GitHub stars](https://img.shields.io/github/stars/Rickebo/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Rickebo/Lemmy.Net)
+[Lemmy.Net](https://github.com/ydinkov/Lemmy.Net) | A Dependency Injected HttpClient for the Lemmy API in dotnet | ![GitHub stars](https://img.shields.io/github/stars/ydinkov/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ydinkov/Lemmy.Net)
 
 ### Tools
 
