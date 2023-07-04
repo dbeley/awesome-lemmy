@@ -57,6 +57,7 @@ Name | Description | GitHub Activity
 * [lemmygtk/lemoa](@ghRepo)
 * [mdwalters/lemonade](@ghRepo)
 * [diamondburned/slemmy](@ghRepo)
+* [rystaf/mlmym](@ghRepo)
 * [ando818/lemmy-ui-svelte](@ghRepo)
 * [sheodox/sx-lemmy](@ghRepo)
 
