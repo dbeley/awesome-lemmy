@@ -50,21 +50,18 @@ Name | Description | GitHub Activity
 
 *Alternative front-ends for Lemmy.*
 
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-* [aeharding/wefwef](@ghRepo)
-* [mrusme/neonmodem](@ghRepo)
-* [LemmyNet/lemmyBB](@ghRepo)
-* [lemmygtk/lemoa](@ghRepo)
-* [mdwalters/lemonade](@ghRepo)
-* [diamondburned/slemmy](@ghRepo)
-* [rystaf/mlmym](@ghRepo)
-* [ando818/lemmy-ui-svelte](@ghRepo)
-* [sheodox/sx-lemmy](@ghRepo)
+Name | Description | GitHub Activity | URL
+---- | ----------- | --------------- | ---
+* [aeharding/wefwef](@ghRepo) | [wefwef.app](https://wefwef.app/)
+* [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
+* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
+* [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
+* [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
+* [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 
-### Mobile Apps
+### Mobile / Desktop Apps
 
-*Mobile apps to access Lemmy.*
+*Apps to access Lemmy.*
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
@@ -73,6 +70,10 @@ Name | Description | GitHub Activity | OS compatibility
 * [hjiangsu/thunder](@ghRepo) | Android, iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 * [gkasdorf/memmy](@ghRepo) | iOS
+* [mrusme/neonmodem](@ghRepo) | Linux
+* [uuttff8/Remmel](@ghRepo) | iOS
+* [lemmygtk/lemoa](@ghRepo) | Linux
+* [mdwalters/lemonade](@ghRepo) | Linux
 * [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
