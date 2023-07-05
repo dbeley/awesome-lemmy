@@ -51,21 +51,18 @@ Name | Description | GitHub Activity
 
 *Alternative front-ends for Lemmy.*
 
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-[**wefwef**](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef)
-[neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | ![GitHub stars](https://img.shields.io/github/stars/mrusme/neonmodem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrusme/neonmodem)
-[lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB)
-[lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa)
-[lemonade](https://github.com/mdwalters/lemonade) | 🍋 A Lemmy client written in Python, using GTK 4 and libadwaita | ![GitHub stars](https://img.shields.io/github/stars/mdwalters/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdwalters/lemonade)
-[slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy)
-[mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym)
-[lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte)
-[alexandrite](https://github.com/sheodox/alexandrite) | A beautiful and convenient desktop-first alternate web UI for Lemmy. (formerly sx-lemmy) | ![GitHub stars](https://img.shields.io/github/stars/sheodox/alexandrite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/alexandrite)
+Name | Description | GitHub Activity | URL
+---- | ----------- | --------------- | ---
+[**wefwef**](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef) | [wefwef.app](https://wefwef.app/)
+[lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB) | [fedibb.ml](https://fedibb.ml/)
+[slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy) | [slemmy.libdb.so](https://slemmy.libdb.so/)
+[mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) | [mlmym.org](https://mlmym.org/)
+[lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte) | [createlab.io](https://createlab.io/)
+[alexandrite](https://github.com/sheodox/alexandrite) | A beautiful and convenient desktop-first alternate web UI for Lemmy. (formerly sx-lemmy) | ![GitHub stars](https://img.shields.io/github/stars/sheodox/alexandrite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/alexandrite) | [alexandrite.app](https://alexandrite.app/)
 
-### Mobile Apps
+### Mobile / Desktop Apps
 
-*Mobile apps to access Lemmy.*
+*Apps to access Lemmy.*
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
@@ -74,6 +71,10 @@ Name | Description | GitHub Activity | OS compatibility
 [thunder](https://github.com/hjiangsu/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/thunder) | Android, iOS
 [liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff) | Android, iOS
 [memmy](https://github.com/Memmy-App/memmy) | An iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/Memmy-App/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Memmy-App/memmy) | iOS
+[neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | ![GitHub stars](https://img.shields.io/github/stars/mrusme/neonmodem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrusme/neonmodem) | Linux
+[Remmel](https://github.com/uuttff8/Remmel) | None | ![GitHub stars](https://img.shields.io/github/stars/uuttff8/Remmel) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/uuttff8/Remmel) | iOS
+[lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa) | Linux
+[lemonade](https://github.com/mdwalters/lemonade) | 🍋 A Lemmy client written in Python, using GTK 4 and libadwaita | ![GitHub stars](https://img.shields.io/github/stars/mdwalters/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdwalters/lemonade) | Linux
 [Lemming](https://github.com/janniskilian/Lemming) | Android client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/janniskilian/Lemming) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/janniskilian/Lemming) | Android
 [lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec) | Android
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
