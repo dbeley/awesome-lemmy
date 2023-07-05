@@ -111,6 +111,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
+* [russjr08/lemmy-stats-exporter](@ghRepo)
 
 ### Guides
 
