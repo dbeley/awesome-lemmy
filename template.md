@@ -21,6 +21,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
   - [Alternative front-ends](#alternative-front-ends)
   - [Mobile Apps](#mobile-apps)
   - [Libraries](#libraries)
+  - [Userscripts / Browser plugins](#userscripts--browser-plugins)
   - [Tools](#tools)
   - [Guides](#guides)
 - [Misc.](#misc)
@@ -95,6 +96,18 @@ Name | Description | GitHub Activity
 * [Rickebo/Lemmy.Net](@ghRepo)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
+### Userscripts / Browser plugins
+
+*Userscripts and plugins for web browsers.*
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+* [soundjester/lemmy_monkey](@ghRepo)
+* [FackJox/lemmy-link](@ghRepo)
+* [daniel-lxs/kbin-link](@ghRepo)
+* [howdy-tsc/LemmyTools](@ghRepo)
+* [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
+
 ### Tools
 
 Name | Description | GitHub Activity
@@ -104,8 +117,6 @@ Name | Description | GitHub Activity
 * [marsara9/lemmy-search](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
-* [FackJox/lemmy-link](@ghRepo)
-* [daniel-lxs/kbin-link](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
