@@ -22,6 +22,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
   - [Alternative front-ends](#alternative-front-ends)
   - [Mobile Apps](#mobile-apps)
   - [Libraries](#libraries)
+  - [Userscripts / Browser plugins](#userscripts--browser-plugins)
   - [Tools](#tools)
   - [Guides](#guides)
 - [Misc.](#misc)
@@ -96,6 +97,18 @@ Name | Description | GitHub Activity
 [Lemmy.Net](https://github.com/Rickebo/Lemmy.Net) | A Lemmy API wrapper for .NET | ![GitHub stars](https://img.shields.io/github/stars/Rickebo/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Rickebo/Lemmy.Net)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
+### Userscripts / Browser plugins
+
+*Userscripts and plugins for web browsers.*
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+[lemmy_monkey](https://github.com/soundjester/lemmy_monkey) | *monkey scripts for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/soundjester/lemmy_monkey) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/soundjester/lemmy_monkey)
+[lemmy-link](https://github.com/FackJox/lemmy-link) | Chrome and Firefox extension for opening lemmy style links in your instance for ease of interactions | ![GitHub stars](https://img.shields.io/github/stars/FackJox/lemmy-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/FackJox/lemmy-link)
+[kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
+[LemmyTools](https://github.com/howdy-tsc/LemmyTools) | A addon script for lemmy to make it a bit better. | ![GitHub stars](https://img.shields.io/github/stars/howdy-tsc/LemmyTools) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/howdy-tsc/LemmyTools)
+[lemmy-modern-ui-theme-addon](https://github.com/pkrasicki/lemmy-modern-ui-theme-addon) | Firefox extension which replaces the CSS styles on Lemmy instances to create a modern looking theme. | ![GitHub stars](https://img.shields.io/github/stars/pkrasicki/lemmy-modern-ui-theme-addon) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pkrasicki/lemmy-modern-ui-theme-addon)
+
 ### Tools
 
 Name | Description | GitHub Activity
@@ -105,8 +118,6 @@ Name | Description | GitHub Activity
 [lemmy-search](https://github.com/marsara9/lemmy-search) | An enhanced search engine just for Lemmy/Fediverse | ![GitHub stars](https://img.shields.io/github/stars/marsara9/lemmy-search) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/marsara9/lemmy-search)
 [lemmy-explorer](https://github.com/tgxn/lemmy-explorer) | Instance and Community Explorer for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/tgxn/lemmy-explorer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tgxn/lemmy-explorer)
 [lcs](https://github.com/Fmstrat/lcs) | Lemmy Community Seeder (LCS) | ![GitHub stars](https://img.shields.io/github/stars/Fmstrat/lcs) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Fmstrat/lcs)
-[lemmy-link](https://github.com/FackJox/lemmy-link) | Chrome and Firefox extension for opening lemmy style links in your instance for ease of interactions | ![GitHub stars](https://img.shields.io/github/stars/FackJox/lemmy-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/FackJox/lemmy-link)
-[kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
 [lemmy-stats-crawler](https://github.com/LemmyNet/lemmy-stats-crawler) | None | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-stats-crawler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-stats-crawler)
 [lemmy-reply-bot](https://github.com/Elara6331/lemmy-reply-bot) | A customizable Lemmy bot that replies to comments | ![GitHub stars](https://img.shields.io/github/stars/Elara6331/lemmy-reply-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Elara6331/lemmy-reply-bot)
 [Lemmy-Mega-Bot](https://github.com/Ategon/Lemmy-Mega-Bot) | A lemmy bot that watches rss feeds and posts new posts from them in communities | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Mega-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Mega-Bot)
