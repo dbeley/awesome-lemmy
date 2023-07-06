@@ -54,10 +54,11 @@ Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
 * [aeharding/wefwef](@ghRepo) | [wefwef.app](https://wefwef.app/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
-* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
+* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
+* [Zetaphor/lemmy-loops](@ghRepo) |
 
 ### Mobile / Desktop Apps
 
@@ -124,6 +125,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
+[lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
 
