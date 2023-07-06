@@ -119,6 +119,8 @@ Name | Description | GitHub Activity
 * [marsara9/lemmy-search](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
+* [wescode/lemmy_migrate](@ghRepo)
+* [Ac5000/lemmy_account_sync](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
