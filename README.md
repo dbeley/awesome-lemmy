@@ -55,10 +55,11 @@ Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
 [**wefwef**](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef) | [wefwef.app](https://wefwef.app/)
 [lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB) | [fedibb.ml](https://fedibb.ml/)
-[slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 [mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) | [mlmym.org](https://mlmym.org/)
+[slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 [lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte) | [createlab.io](https://createlab.io/)
 [alexandrite](https://github.com/sheodox/alexandrite) | A beautiful and convenient desktop-first alternate web UI for Lemmy. (formerly sx-lemmy) | ![GitHub stars](https://img.shields.io/github/stars/sheodox/alexandrite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/alexandrite) | [alexandrite.app](https://alexandrite.app/)
+[lemmy-loops](https://github.com/Zetaphor/lemmy-loops) | ∞Loops is a PWA client for the Lemmy network | ![GitHub stars](https://img.shields.io/github/stars/Zetaphor/lemmy-loops) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Zetaphor/lemmy-loops) |
 
 ### Mobile / Desktop Apps
 
@@ -125,6 +126,7 @@ Name | Description | GitHub Activity
 [Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) | A lemmy bot that auto posts threads in communities at given times | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Frank-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Frank-Bot)
 [lemmy_helper](https://github.com/RocketDerp/lemmy_helper) | Lemmy admin helper webapp for server operators | ![GitHub stars](https://img.shields.io/github/stars/RocketDerp/lemmy_helper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RocketDerp/lemmy_helper)
 [lemmy-stats-exporter](https://github.com/russjr08/lemmy-stats-exporter) | A utility for exporting administrative/moderation statistics from your Lemmy instance's PostgreSQL database to InfluxDB! | ![GitHub stars](https://img.shields.io/github/stars/russjr08/lemmy-stats-exporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/russjr08/lemmy-stats-exporter)
+[lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
 
