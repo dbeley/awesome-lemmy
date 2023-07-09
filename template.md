@@ -128,6 +128,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
+* [bunburya/lemmy2opml](@ghRepo)
 [lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
