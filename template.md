@@ -52,7 +52,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
-* [aeharding/wefwef](@ghRepo) | [wefwef.app](https://wefwef.app/)
+* [aeharding/voyager](@ghRepo) | [vger.app](https://vger.app/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
