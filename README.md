@@ -53,7 +53,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
-[**wefwef**](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/wefwef) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/wefwef) | [wefwef.app](https://wefwef.app/)
+[**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy web client (formerly wefwef) | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | [vger.app](https://vger.app/)
 [lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB) | [fedibb.ml](https://fedibb.ml/)
 [mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) | [mlmym.org](https://mlmym.org/)
 [slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy) | [slemmy.libdb.so](https://slemmy.libdb.so/)
