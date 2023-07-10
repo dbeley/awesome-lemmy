@@ -129,6 +129,7 @@ Name | Description | GitHub Activity
 [Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) | A lemmy bot that auto posts threads in communities at given times | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Frank-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Frank-Bot)
 [lemmy_helper](https://github.com/RocketDerp/lemmy_helper) | Lemmy admin helper webapp for server operators | ![GitHub stars](https://img.shields.io/github/stars/RocketDerp/lemmy_helper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RocketDerp/lemmy_helper)
 [lemmy-stats-exporter](https://github.com/russjr08/lemmy-stats-exporter) | A utility for exporting administrative/moderation statistics from your Lemmy instance's PostgreSQL database to InfluxDB! | ![GitHub stars](https://img.shields.io/github/stars/russjr08/lemmy-stats-exporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/russjr08/lemmy-stats-exporter)
+[lemmy2opml](https://github.com/bunburya/lemmy2opml) | Export and import Lemmy community subscriptions | ![GitHub stars](https://img.shields.io/github/stars/bunburya/lemmy2opml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bunburya/lemmy2opml)
 [lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
