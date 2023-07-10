@@ -59,6 +59,7 @@ Name | Description | GitHub Activity | URL
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
+* [cr4yfish/nemmy](@ghRepo) | [nemmy.vercel.app](https://nemmy.app/)
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
 ### Mobile / Desktop Apps
