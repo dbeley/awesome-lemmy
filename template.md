@@ -58,6 +58,7 @@ Name | Description | GitHub Activity | URL
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
+* [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
 ### Mobile / Desktop Apps
