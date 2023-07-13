@@ -98,6 +98,7 @@ Name | Description | GitHub Activity
 * [ydinkov/Lemmy.Net](@ghRepo)
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [Rickebo/Lemmy.Net](@ghRepo)
+* [RikudouSage/LemmyApi](@ghRepo)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
 
 ### Userscripts / Browser plugins
@@ -108,8 +109,8 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [soundjester/lemmy_monkey](@ghRepo)
 * [FackJox/lemmy-link](@ghRepo)
-* [daniel-lxs/kbin-link](@ghRepo)
 * [howdy-tsc/LemmyTools](@ghRepo)
+* [daniel-lxs/kbin-link](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [raicuparta/lemmy-go](@ghRepo)
 
@@ -117,13 +118,14 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+* [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
+* [CMahaff/lasim](@ghRepo)
 * [rileynull/RedditLemmyImporter](@ghRepo)
-* [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
+* [SleeplessOne1917/lemmy-bot](@ghRepo)
+* [wescode/lemmy_migrate](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
-* [wescode/lemmy_migrate](@ghRepo)
-* [CMahaff/lasim](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
@@ -132,6 +134,7 @@ Name | Description | GitHub Activity
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
+* [tgxn/lemmy-modder](@ghRepo)
 [lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
