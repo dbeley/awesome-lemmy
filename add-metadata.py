@@ -30,7 +30,7 @@ def github_table_row(repo):
     stars_shield = f"![GitHub stars](https://img.shields.io/github/stars/{repo.full_name})"
     commit_shield = f"![GitHub commit activity](https://img.shields.io/github/commit-activity/y/{repo.full_name})"
 
-    return f"{project_link} | {repo.description} | {stars_shield} {commit_shield}"
+    return f"{project_link} | {repo.description if repo.description else ''} | {stars_shield} {commit_shield}"
 
 
 def warn(msg):
