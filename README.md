@@ -114,6 +114,7 @@ Name | Description | GitHub Activity
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
 [lemmy-modern-ui-theme-addon](https://github.com/pkrasicki/lemmy-modern-ui-theme-addon) | Firefox extension which replaces the CSS styles on Lemmy instances to create a modern looking theme. | ![GitHub stars](https://img.shields.io/github/stars/pkrasicki/lemmy-modern-ui-theme-addon) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pkrasicki/lemmy-modern-ui-theme-addon)
 [lemmy-go](https://github.com/Raicuparta/lemmy-go) | Browser extension that adds a new search keyword for more easily navigating to Lemmy communities. | ![GitHub stars](https://img.shields.io/github/stars/Raicuparta/lemmy-go) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Raicuparta/lemmy-go)
+[lemmy-instance-assistant](https://github.com/cynber/lemmy-instance-assistant) | Browser extension to help make Lemmy & Kbin easier to use | ![GitHub stars](https://img.shields.io/github/stars/cynber/lemmy-instance-assistant) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/cynber/lemmy-instance-assistant)
 
 ### Tools
 
