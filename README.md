@@ -81,7 +81,7 @@ Name | Description | GitHub Activity | OS compatibility
 [Lemming](https://github.com/janniskilian/Lemming) | Android client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/janniskilian/Lemming) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/janniskilian/Lemming) | Android
 [lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec) | Android
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
-[ares](https://github.com/lyptt/ares) | WIP iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lyptt/ares) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lyptt/ares) | iOS
+[ares](https://github.com/lyptt/ares) | iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lyptt/ares) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lyptt/ares) | iOS
 
 ### Libraries
 
