@@ -113,6 +113,7 @@ Name | Description | GitHub Activity
 * [daniel-lxs/kbin-link](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [raicuparta/lemmy-go](@ghRepo)
+* [cynber/lemmy-instance-assistant](@ghRepo)
 
 ### Tools
 
