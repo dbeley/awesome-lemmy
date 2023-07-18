@@ -20,6 +20,7 @@ from github import Github
 g = Github(os.environ['GITHUB_TOKEN'])
 
 gh_repo_regex = re.compile('\[([\w\._-]+\/[\w\._-]+)\]\(@ghRepo\)')
+gl_repo_regex = re.compile('\[([\w\._-]+\/[\w\._-]+)\]\(@glRepo\)')
 
 def github_table_row(repo):
     name = repo.name
@@ -31,6 +32,14 @@ def github_table_row(repo):
     commit_shield = f"![GitHub commit activity](https://img.shields.io/github/commit-activity/y/{repo.full_name})"
 
     return f"{project_link} | {repo.description if repo.description else ''} | {stars_shield} {commit_shield}"
+
+def gitlab_table_row(line):
+    name = line.split("[")[1].split("]")[0]
+
+    project_link = f"[{name}](https://gitlab.com/{name})"
+    stars_shield = f"![GitLab stars](https://img.shields.io/gitlab/stars/{name})"
+
+    return f"{project_link} | | {stars_shield}"
 
 
 def warn(msg):
@@ -56,10 +65,13 @@ def check_freshness(repo):
 
 
 def parse(line):
-    m = gh_repo_regex.search(line)
-    if m:
-        [repo_name] = m.groups()
+    gh = gh_repo_regex.search(line)
+    gl = gl_repo_regex.search(line)
+    if gh:
+        [repo_name] = gh.groups()
         return github_table_row(retrieve_repo(repo_name)) + line.rsplit("(@ghRepo)", 1)[-1].rstrip()
+    elif gl:
+        return gitlab_table_row(line) + line.rsplit("(@glRepo)", 1)[-1].rstrip()
     else:
         return line.rstrip()
 
