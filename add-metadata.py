@@ -36,7 +36,7 @@ def github_table_row(repo):
 def gitlab_table_row(line):
     name = line.split("[")[1].split("]")[0]
 
-    project_link = f"[{name}](https://gitlab.com/{name})"
+    project_link = f"[{name.split('/')[-1]}](https://gitlab.com/{name})"
     stars_shield = f"![GitLab stars](https://img.shields.io/gitlab/stars/{name})"
 
     return f"{project_link} | | {stars_shield}"
