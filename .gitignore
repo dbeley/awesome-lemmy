@@ -20,3 +20,8 @@ project/plugins/project/
 
 # project specific
 .access-token
+
+# Python env
+.env
+.direnv/
+venv/
