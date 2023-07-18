@@ -115,7 +115,7 @@ Name | Description | GitHub Activity
 [lemmy-instance-assistant](https://github.com/cynber/lemmy-instance-assistant) | Browser extension to help make Lemmy & Kbin easier to use | ![GitHub stars](https://img.shields.io/github/stars/cynber/lemmy-instance-assistant) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/cynber/lemmy-instance-assistant)
 [lemmy-modern-ui-theme-addon](https://github.com/pkrasicki/lemmy-modern-ui-theme-addon) | Firefox extension which replaces the CSS styles on Lemmy instances to create a modern looking theme. | ![GitHub stars](https://img.shields.io/github/stars/pkrasicki/lemmy-modern-ui-theme-addon) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pkrasicki/lemmy-modern-ui-theme-addon)
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
-[azzurite/lemmy-universal-link-switcher](https://gitlab.com/azzurite/lemmy-universal-link-switcher) | | ![GitLab stars](https://img.shields.io/gitlab/stars/azzurite/lemmy-universal-link-switcher)
+[lemmy-universal-link-switcher](https://gitlab.com/azzurite/lemmy-universal-link-switcher) | | ![GitLab stars](https://img.shields.io/gitlab/stars/azzurite/lemmy-universal-link-switcher)
 
 ### Tools
 
@@ -136,7 +136,7 @@ Name | Description | GitHub Activity
 [lemmy-modder](https://github.com/tgxn/lemmy-modder) | Lemmy Moderation App | ![GitHub stars](https://img.shields.io/github/stars/tgxn/lemmy-modder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tgxn/lemmy-modder)
 [lemmy2opml](https://github.com/bunburya/lemmy2opml) | Export and import Lemmy community subscriptions | ![GitHub stars](https://img.shields.io/github/stars/bunburya/lemmy2opml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bunburya/lemmy2opml)
 [Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) | A lemmy bot that auto posts threads in communities at given times | ![GitHub stars](https://img.shields.io/github/stars/Ategon/Lemmy-Frank-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ategon/Lemmy-Frank-Bot)
-[sab_from_earth/lemmit](https://gitlab.com/sab_from_earth/lemmit) | | ![GitLab stars](https://img.shields.io/gitlab/stars/sab_from_earth/lemmit)
+[lemmit](https://gitlab.com/sab_from_earth/lemmit) | | ![GitLab stars](https://img.shields.io/gitlab/stars/sab_from_earth/lemmit)
 [lemmy_helper](https://github.com/RocketDerp/lemmy_helper) | Lemmy admin helper webapp for server operators | ![GitHub stars](https://img.shields.io/github/stars/RocketDerp/lemmy_helper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RocketDerp/lemmy_helper)
 [lemmy-stats-exporter](https://github.com/russjr08/lemmy-stats-exporter) | A utility for exporting administrative/moderation statistics from your Lemmy instance's PostgreSQL database to InfluxDB! | ![GitHub stars](https://img.shields.io/github/stars/russjr08/lemmy-stats-exporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/russjr08/lemmy-stats-exporter)
 
