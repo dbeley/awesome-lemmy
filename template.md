@@ -19,7 +19,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
   - [Lemmy](#lemmy)
   - [Instances](#instances)
   - [Alternative front-ends](#alternative-front-ends)
-  - [Mobile Apps](#mobile-apps)
+  - [Mobile / Desktop apps](#mobile--desktop-apps)
   - [Libraries](#libraries)
   - [Userscripts / Browser plugins](#userscripts--browser-plugins)
   - [Tools](#tools)
@@ -55,27 +55,27 @@ Name | Description | GitHub Activity | URL
 * [aeharding/voyager](@ghRepo) | [vger.app](https://vger.app/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
+* [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
-* [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
-* [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [cr4yfish/nemmy](@ghRepo) | [nemmy.vercel.app](https://nemmy.app/)
+* [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
-### Mobile / Desktop Apps
+### Mobile / Desktop apps
 
 *Apps to access Lemmy.*
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
 * [dessalines/jerboa](@ghRepo) | Android
-* [mlemgroup/mlem](@ghRepo) | iOS
-* [hjiangsu/thunder](@ghRepo) | Android, iOS
+* [thunder-app/thunder](@ghRepo) | Android, iOS
+* [memmy-app/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
-* [gkasdorf/memmy](@ghRepo) | iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
 * [lemmygtk/lemoa](@ghRepo) | Linux
+* [mlemgroup/mlem](@ghRepo) | iOS
 * [mdwalters/lemonade](@ghRepo) | Linux
 * [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
@@ -90,8 +90,8 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [derivator/tafkars](@ghRepo)
 * [LemmyNet/lemmy-js-client](@ghRepo)
-* [rrainn/Lemmy-Swift-Client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
+* [rrainn/Lemmy-Swift-Client](@ghRepo)
 * [tjkessler/plemmy](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
 * [hjiangsu/lemmy-dart](@ghRepo)
@@ -108,12 +108,13 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [soundjester/lemmy_monkey](@ghRepo)
-* [FackJox/lemmy-link](@ghRepo)
 * [howdy-tsc/LemmyTools](@ghRepo)
-* [daniel-lxs/kbin-link](@ghRepo)
-* [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
+* [FackJox/lemmy-link](@ghRepo)
 * [raicuparta/lemmy-go](@ghRepo)
 * [cynber/lemmy-instance-assistant](@ghRepo)
+* [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
+* [daniel-lxs/kbin-link](@ghRepo)
+* [azzurite/lemmy-universal-link-switcher](@glRepo)
 
 ### Tools
 
@@ -121,22 +122,22 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
 * [CMahaff/lasim](@ghRepo)
-* [rileynull/RedditLemmyImporter](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
+* [rileynull/RedditLemmyImporter](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
-* [wescode/lemmy_migrate](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
+* [wescode/lemmy_migrate](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
-* [LemmyNet/lemmy-stats-crawler](@ghRepo)
-* [Elara6331/lemmy-reply-bot](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
+* [Elara6331/lemmy-reply-bot](@ghRepo)
+* [LemmyNet/lemmy-stats-crawler](@ghRepo)
+* [tgxn/lemmy-modder](@ghRepo)
+* [bunburya/lemmy2opml](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
+* [sab_from_earth/lemmit](@glRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
-* [bunburya/lemmy2opml](@ghRepo)
-* [tgxn/lemmy-modder](@ghRepo)
-[lemmit](https://gitlab.com/sab_from_earth/lemmit/) | A Reddit-to-Lemmy cross-poster |
 
 ### Guides
 
