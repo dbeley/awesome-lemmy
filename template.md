@@ -59,6 +59,7 @@ Name | Description | GitHub Activity | URL
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [cr4yfish/nemmy](@ghRepo) | [nemmy.vercel.app](https://nemmy.app/)
+* [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
@@ -76,11 +77,15 @@ Name | Description | GitHub Activity | OS compatibility
 * [uuttff8/Remmel](@ghRepo) | iOS
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [mlemgroup/mlem](@ghRepo) | iOS
+* [bqv/slide](@ghRepo) | Android
 * [mdwalters/lemonade](@ghRepo) | Linux
+* [BentonEdmondson/servitor](@ghRepo) | Linux
 * [janniskilian/lemming](@ghRepo) | Android
+* [Athlon007/Leomard](@ghRepo) | MacOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
+* [lavalleeale/lemmios](@ghRepo) | iOS
 
 ### Libraries
 
