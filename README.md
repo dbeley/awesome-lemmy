@@ -156,6 +156,7 @@ Name | Description | GitHub Activity
 * [browser.toast.ooo](https://browse.toast.ooo/communities)
 * [lemmymap.feddit.de](https://lemmymap.feddit.de/)
 * [the-federation.info/platform/73](https://the-federation.info/platform/73)
+* [lemmy.world/c/lemmyapps - [Megathread] List of lemmy apps](https://lemmy.world/post/465785)
 
 ## Credits
 
