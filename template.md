@@ -86,6 +86,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdpearce/warami](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | Android
 
 ### Libraries
 
