@@ -87,6 +87,7 @@ Name | Description | GitHub Activity | OS compatibility
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
 [ares](https://github.com/lyptt/ares) | iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lyptt/ares) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lyptt/ares) | iOS
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | Android
 
 ### Libraries
 
