@@ -86,6 +86,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdpearce/warami](@ghRepo) | Android
 * [lyptt/ares](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
+* [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
 [Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project | | Android
 
 ### Libraries
