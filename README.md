@@ -122,6 +122,7 @@ Name | Description | GitHub Activity
 [lemmy-modern-ui-theme-addon](https://github.com/pkrasicki/lemmy-modern-ui-theme-addon) | Firefox extension which replaces the CSS styles on Lemmy instances to create a modern looking theme. | ![GitHub stars](https://img.shields.io/github/stars/pkrasicki/lemmy-modern-ui-theme-addon) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pkrasicki/lemmy-modern-ui-theme-addon)
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
 [lemmy-universal-link-switcher](https://gitlab.com/azzurite/lemmy-universal-link-switcher) | | ![GitLab stars](https://img.shields.io/gitlab/stars/azzurite/lemmy-universal-link-switcher)
+[lemmy-keyboard-navigation](https://github.com/vmavromatis/Lemmy-keyboard-navigation) | RES-like script that allows you to easily navigate Lemmy with your keyboard. | ![GitHub stars](https://img.shields.io/github/stars/vmavromatis/Lemmy-keyboard-navigation) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vmavromatis/Lemmy-keyboard-navigation)
 
 ### Tools
 
