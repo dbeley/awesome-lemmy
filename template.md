@@ -131,6 +131,7 @@ Name | Description | GitHub Activity
 * [CMahaff/lasim](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
 * [rileynull/RedditLemmyImporter](@ghRepo)
+* [peterwilli/lemmemovetolemmy](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [wescode/lemmy_migrate](@ghRepo)
