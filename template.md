@@ -53,13 +53,13 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
 * [aeharding/voyager](@ghRepo) | [vger.app](https://vger.app/)
-* [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
+* [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
+* [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [cr4yfish/nemmy](@ghRepo) | [nemmy.vercel.app](https://nemmy.app/)
-* [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
@@ -74,18 +74,18 @@ Name | Description | GitHub Activity | OS compatibility
 * [memmy-app/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
-* [uuttff8/Remmel](@ghRepo) | iOS
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [mlemgroup/mlem](@ghRepo) | iOS
+* [uuttff8/Remmel](@ghRepo) | iOS
 * [bqv/slide](@ghRepo) | Android
 * [mdwalters/lemonade](@ghRepo) | Linux
 * [BentonEdmondson/servitor](@ghRepo) | Linux
-* [janniskilian/lemming](@ghRepo) | Android
 * [Athlon007/Leomard](@ghRepo) | MacOS
+* [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
-* [lavalleeale/lemmios](@ghRepo) | iOS
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
+* [lavalleeale/lemmios](@ghRepo) | iOS
 [Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project | | Android
 
 ### Libraries
@@ -100,8 +100,8 @@ Name | Description | GitHub Activity
 * [rrainn/Lemmy-Swift-Client](@ghRepo)
 * [tjkessler/plemmy](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
-* [hjiangsu/lemmy-dart](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
+* [hjiangsu/lemmy-dart](@ghRepo)
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
@@ -116,8 +116,8 @@ Name | Description | GitHub Activity
 * [soundjester/lemmy_monkey](@ghRepo)
 * [howdy-tsc/LemmyTools](@ghRepo)
 * [FackJox/lemmy-link](@ghRepo)
-* [raicuparta/lemmy-go](@ghRepo)
 * [cynber/lemmy-instance-assistant](@ghRepo)
+* [raicuparta/lemmy-go](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
@@ -126,14 +126,13 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
 * [CMahaff/lasim](@ghRepo)
+* [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
+* [wescode/lemmy_migrate](@ghRepo)
 * [rileynull/RedditLemmyImporter](@ghRepo)
-* [peterwilli/lemmemovetolemmy](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
-* [wescode/lemmy_migrate](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
@@ -145,6 +144,7 @@ Name | Description | GitHub Activity
 * [sab_from_earth/lemmit](@glRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
+* [peterwilli/lemmemovetolemmy](@ghRepo)
 
 ### Guides
 
