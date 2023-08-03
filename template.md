@@ -81,7 +81,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdwalters/lemonade](@ghRepo) | Linux
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [Athlon007/Leomard](@ghRepo) | MacOS
-* [janniskilian/lemming](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
