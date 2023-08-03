@@ -121,6 +121,7 @@ Name | Description | GitHub Activity
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
+* [vmavromatis/lemmy-keyboard-navigation](@ghRepo)
 
 ### Tools
 
