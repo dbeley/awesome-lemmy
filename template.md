@@ -86,6 +86,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
 [Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project | | Android
+[Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync) | A Lemmy client by the creator of Sync for Reddit | | Android
 
 ### Libraries
 
