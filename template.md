@@ -85,7 +85,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdpearce/warami](@ghRepo) | Android
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
-[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project | | Android
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 
 ### Libraries
 
@@ -104,7 +104,8 @@ Name | Description | GitHub Activity
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
-[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
+[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API | ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2Fretiolus%2FLemmy.py&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)
+
 
 ### Userscripts / Browser plugins
 
