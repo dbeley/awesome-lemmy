@@ -56,8 +56,8 @@ Name | Description | GitHub Activity | URL
 * [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
-* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
+* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
 * [cr4yfish/nemmy](@ghRepo) | [nemmy.vercel.app](https://nemmy.app/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
@@ -74,9 +74,10 @@ Name | Description | GitHub Activity | OS compatibility
 * [memmy-app/memmy](@ghRepo) | iOS
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
-* [lemmygtk/lemoa](@ghRepo) | Linux
 * [mlemgroup/mlem](@ghRepo) | iOS
+* [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [bqv/slide](@ghRepo) | Android
 * [mdwalters/lemonade](@ghRepo) | Linux
 * [BentonEdmondson/servitor](@ghRepo) | Linux
@@ -85,7 +86,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdpearce/warami](@ghRepo) | Android
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
-[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 
 ### Libraries
 
@@ -101,10 +101,10 @@ Name | Description | GitHub Activity
 * [Elara6331/go-lemmy](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
 * [hjiangsu/lemmy-dart](@ghRepo)
-* [mdowst/Lemmy-PowerShell](@ghRepo)
-* [Rickebo/Lemmy.Net](@ghRepo)
-* [RikudouSage/LemmyApi](@ghRepo)
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API | ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2Fretiolus%2FLemmy.py&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)
+* [Rickebo/Lemmy.Net](@ghRepo)
+* [mdowst/Lemmy-PowerShell](@ghRepo)
+* [RikudouSage/LemmyApi](@ghRepo)
 
 
 ### Userscripts / Browser plugins
@@ -119,8 +119,8 @@ Name | Description | GitHub Activity
 * [cynber/lemmy-instance-assistant](@ghRepo)
 * [raicuparta/lemmy-go](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
-* [daniel-lxs/kbin-link](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
+* [daniel-lxs/kbin-link](@ghRepo)
 * [vmavromatis/lemmy-keyboard-navigation](@ghRepo)
 
 ### Tools
@@ -129,11 +129,11 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [CMahaff/lasim](@ghRepo)
 * [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
-* [marsara9/lemmy-search](@ghRepo)
 * [wescode/lemmy_migrate](@ghRepo)
-* [rileynull/RedditLemmyImporter](@ghRepo)
-* [SleeplessOne1917/lemmy-bot](@ghRepo)
+* [marsara9/lemmy-search](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
+* [SleeplessOne1917/lemmy-bot](@ghRepo)
+* [rileynull/RedditLemmyImporter](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
@@ -141,11 +141,11 @@ Name | Description | GitHub Activity
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
+* [RocketDerp/lemmy_helper](@ghRepo)
+* [peterwilli/lemmemovetolemmy](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
-* [RocketDerp/lemmy_helper](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
-* [peterwilli/lemmemovetolemmy](@ghRepo)
 
 ### Guides
 
