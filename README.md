@@ -53,7 +53,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
-[**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy web client (formerly wefwef) | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | [vger.app](https://vger.app/)
+[**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | [vger.app](https://vger.app/)
 [mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) | [mlmym.org](https://mlmym.org/)
 [lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB) | [fedibb.ml](https://fedibb.ml/)
 [alexandrite](https://github.com/sheodox/alexandrite) | A beautiful and convenient desktop-first alternate web UI for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/sheodox/alexandrite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/alexandrite) | [alexandrite.app](https://alexandrite.app/)
@@ -73,7 +73,7 @@ Name | Description | GitHub Activity | OS compatibility
 [**jerboa**](https://github.com/dessalines/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/dessalines/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dessalines/jerboa) | Android
 [**thunder**](https://github.com/thunder-app/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/thunder-app/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/thunder-app/thunder) | Android, iOS
 [**memmy**](https://github.com/Memmy-App/memmy) | An Apollo inspired open-source iOS client for Lemmy built with React-Native. Find us on the App Store!  | ![GitHub stars](https://img.shields.io/github/stars/Memmy-App/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Memmy-App/memmy) | iOS
-[liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff) | Android, iOS
+[**liftoff**](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff) | Android, iOS
 [neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | ![GitHub stars](https://img.shields.io/github/stars/mrusme/neonmodem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrusme/neonmodem) | Linux
 [lemoa](https://github.com/lemmygtk/lemoa) | Native Gtk client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/lemmygtk/lemoa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lemmygtk/lemoa) | Linux
 [mlem](https://github.com/mlemgroup/mlem) | Mlem for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/mlemgroup/mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mlemgroup/mlem) | iOS
@@ -86,7 +86,7 @@ Name | Description | GitHub Activity | OS compatibility
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
 [Lunar-Lemmy-iOS](https://github.com/mani-sh-reddy/Lunar-Lemmy-iOS) | Lunar is an iOS app that serves as a client for Lemmy, the open-source federated alternative to Reddit | ![GitHub stars](https://img.shields.io/github/stars/mani-sh-reddy/Lunar-Lemmy-iOS) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mani-sh-reddy/Lunar-Lemmy-iOS) | iOS
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
-[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project | | Android
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 
 ### Libraries
 
@@ -105,7 +105,8 @@ Name | Description | GitHub Activity
 [Lemmy-PowerShell](https://github.com/mdowst/Lemmy-PowerShell) | A PowerShell module for interacting with Lemmy | ![GitHub stars](https://img.shields.io/github/stars/mdowst/Lemmy-PowerShell) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdowst/Lemmy-PowerShell)
 [Lemmy.Net](https://github.com/Rickebo/Lemmy.Net) | A Lemmy API wrapper for .NET | ![GitHub stars](https://img.shields.io/github/stars/Rickebo/Lemmy.Net) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Rickebo/Lemmy.Net)
 [LemmyApi](https://github.com/RikudouSage/LemmyApi) |  | ![GitHub stars](https://img.shields.io/github/stars/RikudouSage/LemmyApi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RikudouSage/LemmyApi)
-[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API |
+[Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API | ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2Fretiolus%2FLemmy.py&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)
+
 
 ### Userscripts / Browser plugins
 
