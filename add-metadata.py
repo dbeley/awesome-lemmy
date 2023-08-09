@@ -16,11 +16,13 @@ import sys
 
 from datetime import datetime, timedelta
 from github import Github
+from urllib.parse import quote_plus
 
 g = Github(os.environ['GITHUB_TOKEN'])
 
 gh_repo_regex = re.compile('\[([\w\._-]+\/[\w\._-]+)\]\(@ghRepo\)')
 gl_repo_regex = re.compile('\[([\w\._-]+\/[\w\._-]+)\]\(@glRepo\)')
+cb_repo_regex = re.compile('\[([\w\._-]+\/[\w\._-]+)\]\(@cbRepo\)')
 
 def github_table_row(repo):
     name = repo.name
@@ -38,6 +40,15 @@ def gitlab_table_row(line):
 
     project_link = f"[{name.split('/')[-1]}](https://gitlab.com/{name})"
     stars_shield = f"![GitLab stars](https://img.shields.io/gitlab/stars/{name})"
+
+    return f"{project_link} | | {stars_shield}"
+
+def codeberg_table_row(line):
+    name = line.split("[")[1].split("]")[0]
+
+    repo_url = f"https://codeberg.org/{name}"
+    project_link = f"[{name.split('/')[-1]}]({repo_url})"
+    stars_shield = f"![Codeberg stars](https://img.shields.io/badge/dynamic/xml?url={quote_plus(repo_url)}&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)"
 
     return f"{project_link} | | {stars_shield}"
 
@@ -67,11 +78,14 @@ def check_freshness(repo):
 def parse(line):
     gh = gh_repo_regex.search(line)
     gl = gl_repo_regex.search(line)
+    cb = cb_repo_regex.search(line)
     if gh:
         [repo_name] = gh.groups()
         return github_table_row(retrieve_repo(repo_name)) + line.rsplit("(@ghRepo)", 1)[-1].rstrip()
     elif gl:
         return gitlab_table_row(line) + line.rsplit("(@glRepo)", 1)[-1].rstrip()
+    elif cb:
+        return codeberg_table_row(line) + line.rsplit("(@cbRepo)", 1)[-1].rstrip()
     else:
         return line.rstrip()
 
