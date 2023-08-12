@@ -140,6 +140,7 @@ Name | Description | GitHub Activity
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
+* [noenfugler/LemmyModBot](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
