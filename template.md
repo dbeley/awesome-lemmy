@@ -147,6 +147,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
+* [RikudouSage/LemmySchedule](@ghRepo)
 
 ### Guides
 
