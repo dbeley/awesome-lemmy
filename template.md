@@ -154,6 +154,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [amirzaidi/lemmy](@ghRepo)
+* [MV-GH/lemmy_openapi_spec](@ghRepo) | Unofficial Lemmy OpenAPI documentation 
 
 ## Misc.
 
