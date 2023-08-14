@@ -148,6 +148,8 @@ Name | Description | GitHub Activity
 * [sab_from_earth/lemmit](@glRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [freamon/lemmy-trending-communities-bot](@ghRepo) | [Trending communities](https://feddit.nl/c/trendingcommunities)
+
 
 ### Guides
 
@@ -166,7 +168,6 @@ Name | Description | GitHub Activity
 * [lemmymap.feddit.de](https://lemmymap.feddit.de/)
 * [the-federation.info/platform/73](https://the-federation.info/platform/73)
 * [lemmy.world/c/lemmyapps - [Megathread] List of lemmy apps](https://lemmy.world/post/465785)
-* [Trending  commmunities on lemmy](https://lemmy.ml/c/trendingcommunities@feddit.nl)
 
 ## Credits
 
