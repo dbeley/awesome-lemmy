@@ -149,6 +149,8 @@ Name | Description | GitHub Activity
 [lemmit](https://gitlab.com/sab_from_earth/lemmit) | | ![GitLab stars](https://img.shields.io/gitlab/stars/sab_from_earth/lemmit)
 [lemmy-stats-exporter](https://github.com/russjr08/lemmy-stats-exporter) | A utility for exporting administrative/moderation statistics from your Lemmy instance's PostgreSQL database to InfluxDB! | ![GitHub stars](https://img.shields.io/github/stars/russjr08/lemmy-stats-exporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/russjr08/lemmy-stats-exporter)
 [LemmySchedule](https://github.com/RikudouSage/LemmySchedule) | App for scheduling posts to Lemmy | ![GitHub stars](https://img.shields.io/github/stars/RikudouSage/LemmySchedule) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RikudouSage/LemmySchedule)
+[lemmy-trending-communities-bot](https://github.com/freamon/lemmy-trending-communities-bot) | BASH scripts for posting trending Communities on Lemmy  | ![GitHub stars](https://img.shields.io/github/stars/freamon/lemmy-trending-communities-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/freamon/lemmy-trending-communities-bot) | [Trending communities](https://feddit.nl/c/trendingcommunities)
+
 
 ### Guides
 
