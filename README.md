@@ -157,6 +157,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [lemmy](https://github.com/amirzaidi/lemmy) | Lemmy - Beginner's Guide for Redditors | ![GitHub stars](https://img.shields.io/github/stars/amirzaidi/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/amirzaidi/lemmy)
+[lemmy_openapi_spec](https://github.com/MV-GH/lemmy_openapi_spec) | Unofficial Lemmy OpenAPI documentation | ![GitHub stars](https://img.shields.io/github/stars/MV-GH/lemmy_openapi_spec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MV-GH/lemmy_openapi_spec) | Unofficial Lemmy OpenAPI documentation
 
 ## Misc.
 
