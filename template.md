@@ -148,6 +148,8 @@ Name | Description | GitHub Activity
 * [sab_from_earth/lemmit](@glRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [freamon/lemmy-trending-communities-bot](@ghRepo) | [Trending communities](https://feddit.nl/c/trendingcommunities)
+
 
 ### Guides
 
