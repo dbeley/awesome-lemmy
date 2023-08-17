@@ -149,6 +149,7 @@ Name | Description | GitHub Activity
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo) | [Trending communities](https://feddit.nl/c/trendingcommunities)
+* [RikudouSage/LemmyAutoTldrBot](@ghRepo)
 
 
 ### Guides
