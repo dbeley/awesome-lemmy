@@ -87,6 +87,7 @@ Name | Description | GitHub Activity | OS compatibility
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
 [Lunar](https://github.com/mani-sh-reddy/Lunar) | Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit | ![GitHub stars](https://img.shields.io/github/stars/mani-sh-reddy/Lunar) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mani-sh-reddy/Lunar) | iOS
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
+[Loom](https://github.com/neatia/Loom) | Loom | ![GitHub stars](https://img.shields.io/github/stars/neatia/Loom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neatia/Loom) | iOS, macOS
 
 ### Libraries
 
