@@ -86,6 +86,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mdpearce/warami](@ghRepo) | Android
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
+* [neatia/Loom](@ghRepo) | iOS, macOS
 
 ### Libraries
 
