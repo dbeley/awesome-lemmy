@@ -75,13 +75,13 @@ Name | Description | GitHub Activity | OS compatibility
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
 * [mlemgroup/mlem](@ghRepo) | iOS
+[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
-[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [bqv/slide](@ghRepo) | Android
 * [mdwalters/lemonade](@ghRepo) | Linux
-* [BentonEdmondson/servitor](@ghRepo) | Linux
 * [Athlon007/Leomard](@ghRepo) | MacOS
+* [BentonEdmondson/servitor](@ghRepo) | Linux
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
 * [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
@@ -107,7 +107,6 @@ Name | Description | GitHub Activity
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
 
-
 ### Userscripts / Browser plugins
 
 *Userscripts and plugins for web browsers.*
@@ -116,42 +115,41 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [soundjester/lemmy_monkey](@ghRepo)
 * [howdy-tsc/LemmyTools](@ghRepo)
-* [FackJox/lemmy-link](@ghRepo)
 * [cynber/lemmy-instance-assistant](@ghRepo)
+* [FackJox/lemmy-link](@ghRepo)
 * [raicuparta/lemmy-go](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
-* [daniel-lxs/kbin-link](@ghRepo)
 * [vmavromatis/lemmy-keyboard-navigation](@ghRepo)
+* [daniel-lxs/kbin-link](@ghRepo)
 
 ### Tools
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [CMahaff/lasim](@ghRepo)
-* [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
 * [wescode/lemmy_migrate](@ghRepo)
+* [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [rileynull/RedditLemmyImporter](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
+* [RikudouSage/LemmyAutoTldrBot](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
+* [noenfugler/LemmyModBot](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
-* [noenfugler/LemmyModBot](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
-* [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
-* [russjr08/lemmy-stats-exporter](@ghRepo)
+* [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
-* [RikudouSage/LemmyAutoTldrBot](@ghRepo)
-
 
 ### Guides
 
