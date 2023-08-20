@@ -149,7 +149,7 @@ Name | Description | GitHub Activity
 * [sab_from_earth/lemmit](@glRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
-* [freamon/lemmy-trending-communities-bot](@ghRepo) | [Trending communities](https://feddit.nl/c/trendingcommunities)
+* [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [RikudouSage/LemmyAutoTldrBot](@ghRepo)
 
 
@@ -158,7 +158,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [amirzaidi/lemmy](@ghRepo)
-* [MV-GH/lemmy_openapi_spec](@ghRepo) | Unofficial Lemmy OpenAPI documentation 
+* [MV-GH/lemmy_openapi_spec](@ghRepo)
 
 ## Misc.
 
