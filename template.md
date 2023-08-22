@@ -141,6 +141,7 @@ Name | Description | GitHub Activity
 * [noenfugler/LemmyModBot](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
+* [ornato-t/lemmy-defed-investigator](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
