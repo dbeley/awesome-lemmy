@@ -75,7 +75,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
 * [mlemgroup/mlem](@ghRepo) | iOS
-[Infinity-For-Lemmy](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FInfinity-For-Lemmy&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
+[Eternity](https://codeberg.org/Bazsalanszky/Eternity) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FEternity&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
 * [bqv/slide](@ghRepo) | Android
@@ -84,7 +84,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
-* [mani-sh-reddy/Lunar-Lemmy-iOS](@ghRepo) | iOS
+* [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
 * [neatia/Loom](@ghRepo) | iOS, macOS
 
