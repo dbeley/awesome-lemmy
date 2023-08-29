@@ -130,6 +130,7 @@ Name | Description | GitHub Activity
 * [CMahaff/lasim](@ghRepo)
 * [wescode/lemmy_migrate](@ghRepo)
 * [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
+* [gusVLZ/lemmy_handshake](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
