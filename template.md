@@ -141,6 +141,7 @@ Name | Description | GitHub Activity
 * [Ategon/Lemmy-Mega-Bot](@ghRepo)
 * [ornato-t/lemmy-defed-investigator](@ghRepo)
 * [noenfugler/LemmyModBot](@ghRepo)
+* [fmstrat/lpp](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
