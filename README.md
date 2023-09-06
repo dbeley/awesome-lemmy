@@ -87,7 +87,7 @@ Name | Description | GitHub Activity | OS compatibility
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami) | Android
 [Lunar](https://github.com/mani-sh-reddy/Lunar) | Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit | ![GitHub stars](https://img.shields.io/github/stars/mani-sh-reddy/Lunar) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mani-sh-reddy/Lunar) | iOS
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
-[Loom](https://github.com/neatia/Loom) | A iOS and macOS client for the fediverse. | ![GitHub stars](https://img.shields.io/github/stars/neatia/Loom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neatia/Loom) | iOS, macOS
+[Loom](https://github.com/neatia/Loom) | A iOS and macOS client for the fediverse. Written in SwiftUI. | ![GitHub stars](https://img.shields.io/github/stars/neatia/Loom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neatia/Loom) | iOS, macOS
 
 ### Libraries
 
@@ -154,6 +154,7 @@ Name | Description | GitHub Activity
 [LemmySchedule](https://github.com/RikudouSage/LemmySchedule) | App for scheduling posts to Lemmy | ![GitHub stars](https://img.shields.io/github/stars/RikudouSage/LemmySchedule) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RikudouSage/LemmySchedule)
 [lemmy-stats-exporter](https://github.com/russjr08/lemmy-stats-exporter) | A utility for exporting administrative/moderation statistics from your Lemmy instance's PostgreSQL database to InfluxDB! | ![GitHub stars](https://img.shields.io/github/stars/russjr08/lemmy-stats-exporter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/russjr08/lemmy-stats-exporter)
 [lemmy-trending-communities-bot](https://github.com/freamon/lemmy-trending-communities-bot) | BASH scripts for posting trending Communities on Lemmy  | ![GitHub stars](https://img.shields.io/github/stars/freamon/lemmy-trending-communities-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/freamon/lemmy-trending-communities-bot)
+[lemmy-safety](https://github.com/db0/lemmy-safety) | A script that goes through a lemmy images in storage and tries to prevent illegal or unethical content | ![GitHub stars](https://img.shields.io/github/stars/db0/lemmy-safety) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/db0/lemmy-safety)
 
 ### Guides
 
