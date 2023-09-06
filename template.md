@@ -153,6 +153,7 @@ Name | Description | GitHub Activity
 * [RikudouSage/LemmySchedule](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
+* [db0/lemmy-safety](@ghRepo)
 
 ### Guides
 
