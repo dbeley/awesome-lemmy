@@ -147,6 +147,7 @@ Name | Description | GitHub Activity
 * [tgxn/lemmy-modder](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
+* [ornato-t/lemmy-automoderator](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
