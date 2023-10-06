@@ -176,7 +176,7 @@ Name | Description | GitHub Activity
 * [lemmymap.feddit.de](https://lemmymap.feddit.de/)
 * [the-federation.info/platform/73](https://the-federation.info/platform/73)
 * [lemmy.world/c/lemmyapps - [Megathread] List of lemmy apps](https://lemmy.world/post/465785)
-[pangora](https://github.com/PangoraWeb/pangora) | A fediverse compatible forum and link aggregator. Downstream from Lemmy.  | ![GitHub stars](https://img.shields.io/github/stars/PangoraWeb/pangora) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PangoraWeb/pangora) - a downstream fork of Lemmy
+* [PangoraWeb/pangora](https://github.com/PangeraWeb/pangora) - a downstream fork of Lemmy
 
 ## Credits
 
