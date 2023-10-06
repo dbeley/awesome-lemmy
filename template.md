@@ -152,6 +152,7 @@ Name | Description | GitHub Activity
 * [sab_from_earth/lemmit](@glRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [PangoraWeb/remindme-bot](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [db0/lemmy-safety](@ghRepo)
