@@ -87,6 +87,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
 * [neatia/Loom](@ghRepo) | iOS, macOS
+* [freshfieldreds/muffed](@ghRepo) | Android, iOS
 
 ### Libraries
 
