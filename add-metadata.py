@@ -60,7 +60,7 @@ def retrieve_repo(name):
 def check_freshness(repo):
     if repo.archived:
         warn(f"Repo {repo.full_name} is archived")
-    elif repo.pushed_at < datetime.utcnow() - timedelta(days=180):
+    elif datetime.timestamp(repo.pushed_at) < datetime.timestamp(datetime.utcnow() - timedelta(days=180)):
         warn(f"Repo {repo.full_name} has not been pushed to since {repo.pushed_at}")
 
 
