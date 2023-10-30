@@ -84,10 +84,10 @@ Name | Description | GitHub Activity | OS compatibility
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
+* [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [mdpearce/warami](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
 * [neatia/Loom](@ghRepo) | iOS, macOS
-* [freshfieldreds/muffed](@ghRepo) | Android, iOS
 
 ### Libraries
 
@@ -146,16 +146,16 @@ Name | Description | GitHub Activity
 * [noenfugler/LemmyModBot](@ghRepo)
 * [mushroomlabs/fediverser](@ghRepo)
 * [ornato-t/lemmy-automoderator](@ghRepo)
-* [Elara6331/lemmy-reply-bot](@ghRepo)
-* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
+* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [Elara6331/lemmy-reply-bot](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
+* [PangoraWeb/remindme-bot](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
-* [PangoraWeb/remindme-bot](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
