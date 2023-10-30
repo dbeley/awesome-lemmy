@@ -144,6 +144,7 @@ Name | Description | GitHub Activity
 * [ornato-t/lemmy-defed-investigator](@ghRepo)
 * [fmstrat/lpp](@ghRepo)
 * [noenfugler/LemmyModBot](@ghRepo)
+* [mushroomlabs/fediverser](@ghRepo)
 * [ornato-t/lemmy-automoderator](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
