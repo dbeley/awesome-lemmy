@@ -157,6 +157,7 @@ Name | Description | GitHub Activity
 * [PangoraWeb/remindme-bot](@ghRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
+* [RikudouSage/lemmyverse.link](@ghRepo)
 
 ### Guides
 
