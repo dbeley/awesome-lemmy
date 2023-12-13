@@ -123,6 +123,7 @@ Name | Description | GitHub Activity
 * [raicuparta/lemmy-go](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
+* [Xyl-AU/Reddit-Comments-for-YouTube](@ghRepo)
 
 ### Tools
 
