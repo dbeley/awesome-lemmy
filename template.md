@@ -160,6 +160,7 @@ Name | Description | GitHub Activity
 * [russjr08/lemmy-stats-exporter](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
+* [jivandabeast/RedditLemmyConverter](@ghRepo)
 
 ### Guides
 
