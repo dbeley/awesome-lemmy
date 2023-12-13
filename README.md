@@ -124,6 +124,7 @@ Name | Description | GitHub Activity
 [lemmy-go](https://github.com/Raicuparta/lemmy-go) | Browser extension that adds a new search keyword for more easily navigating to Lemmy communities. | ![GitHub stars](https://img.shields.io/github/stars/Raicuparta/lemmy-go) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Raicuparta/lemmy-go)
 [lemmy-universal-link-switcher](https://gitlab.com/azzurite/lemmy-universal-link-switcher) | | ![GitLab stars](https://img.shields.io/gitlab/stars/azzurite/lemmy-universal-link-switcher)
 [kbin-link](https://github.com/daniel-lxs/kbin-link) | Chrome extension for opening kbin style links in your instance for ease of following | ![GitHub stars](https://img.shields.io/github/stars/daniel-lxs/kbin-link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/daniel-lxs/kbin-link)
+[Reddit-Comments-for-YouTube](https://github.com/Xyl-AU/Reddit-Comments-for-YouTube) |  | ![GitHub stars](https://img.shields.io/github/stars/Xyl-AU/Reddit-Comments-for-YouTube) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Xyl-AU/Reddit-Comments-for-YouTube)
 
 ### Tools
 
