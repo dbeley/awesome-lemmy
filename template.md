@@ -31,12 +31,13 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ### Lemmy
 
-*The official Lemmy project.*
+*The official Lemmy projects.*
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [LemmyNet/lemmy](@ghRepo)
 * [LemmyNet/lemmy-ui](@ghRepo)
+* [LemmyNet/lemmy-ansible](@ghRepo)
 
 ### Instances
 
