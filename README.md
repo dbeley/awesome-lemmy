@@ -162,6 +162,7 @@ Name | Description | GitHub Activity
 [pangora-recap](https://github.com/PangoraWeb/pangora-recap) | Source code for https://recap.pangora.social | ![GitHub stars](https://img.shields.io/github/stars/PangoraWeb/pangora-recap) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PangoraWeb/pangora-recap)
 [lemmyverse.link](https://github.com/RikudouSage/lemmyverse.link) | A redirect service for Lemmy which allows users to set their preferred instance. | ![GitHub stars](https://img.shields.io/github/stars/RikudouSage/lemmyverse.link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RikudouSage/lemmyverse.link)
 [lemmy-trending-communities-bot](https://github.com/freamon/lemmy-trending-communities-bot) | BASH scripts for posting trending Communities on Lemmy  | ![GitHub stars](https://img.shields.io/github/stars/freamon/lemmy-trending-communities-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/freamon/lemmy-trending-communities-bot)
+[github.com/arran4/lemmy_notify](https://github.com/arran4/lemmy_notify) | A simple tool that's more of a new post / new messages indicator than a notifier (Icon in system tray, win, mac, linux.)  | ![GitHub stars](https://img.shields.io/github/stars/arran4/lemmy_notify) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/arran4/lemmy_notify)
 
 ### Guides
 
