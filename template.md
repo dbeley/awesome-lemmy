@@ -161,6 +161,7 @@ Name | Description | GitHub Activity
 * [PangoraWeb/pangora-recap](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
+* [arran4/lemmy_notify](https://github.com/arran4/lemmy_notify)
 
 ### Guides
 
