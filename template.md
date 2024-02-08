@@ -108,6 +108,7 @@ Name | Description | GitHub Activity
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
+* [SleeplessOne1917/lemmy-client-rs](@ghRepo) 
 
 ### Userscripts / Browser plugins
 
