@@ -163,6 +163,7 @@ Name | Description | GitHub Activity
 * [PangoraWeb/pangora-recap](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
+* [ismailkarsli/lemmy-federate](@ghRepo)
 
 ### Guides
 
