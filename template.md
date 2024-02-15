@@ -164,6 +164,7 @@ Name | Description | GitHub Activity
 * [RikudouSage/lemmyverse.link](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [ismailkarsli/lemmy-federate](@ghRepo)
+* [arran4/lemmy_notify](@ghRepo)
 
 ### Guides
 
