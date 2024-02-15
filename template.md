@@ -85,6 +85,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
+* [diegoberaldin/RaccoonForLemmy](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
 * [neatia/Loom](@ghRepo) | iOS, macOS
@@ -107,6 +108,7 @@ Name | Description | GitHub Activity
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [mdowst/Lemmy-PowerShell](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
+* [SleeplessOne1917/lemmy-client-rs](@ghRepo) 
 
 ### Userscripts / Browser plugins
 
@@ -161,7 +163,8 @@ Name | Description | GitHub Activity
 * [PangoraWeb/pangora-recap](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
-* [arran4/lemmy_notify](https://github.com/arran4/lemmy_notify)
+* [ismailkarsli/lemmy-federate](@ghRepo)
+* [arran4/lemmy_notify](@ghRepo)
 
 ### Guides
 
