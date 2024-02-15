@@ -164,6 +164,7 @@ Name | Description | GitHub Activity
 [pangora-recap](https://github.com/PangoraWeb/pangora-recap) | Source code for https://recap.pangora.social | ![GitHub stars](https://img.shields.io/github/stars/PangoraWeb/pangora-recap) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PangoraWeb/pangora-recap)
 [lemmyverse.link](https://github.com/RikudouSage/lemmyverse.link) | A redirect service for Lemmy which allows users to set their preferred instance. | ![GitHub stars](https://img.shields.io/github/stars/RikudouSage/lemmyverse.link) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RikudouSage/lemmyverse.link)
 [lemmy-trending-communities-bot](https://github.com/freamon/lemmy-trending-communities-bot) | BASH scripts for posting trending Communities on Lemmy  | ![GitHub stars](https://img.shields.io/github/stars/freamon/lemmy-trending-communities-bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/freamon/lemmy-trending-communities-bot)
+[lemmy-federate](https://github.com/ismailkarsli/lemmy-federate) |  | ![GitHub stars](https://img.shields.io/github/stars/ismailkarsli/lemmy-federate) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ismailkarsli/lemmy-federate)
 
 ### Guides
 
