@@ -32,12 +32,13 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ### Lemmy
 
-*The official Lemmy project.*
+*The official Lemmy projects.*
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**lemmy**](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy)
 [**lemmy-ui**](https://github.com/LemmyNet/lemmy-ui) | The official web app for lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ui) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ui)
+[lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) | A docker deploy for ansible | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ansible) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ansible)
 
 ### Instances
 
