@@ -156,6 +156,7 @@ Name | Description | GitHub Activity
 * [ornato-t/lemmy-automoderator](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
 * [PangoraWeb/remindme-bot](@ghRepo)
+* [db0/threativore](@ghRepo)
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
