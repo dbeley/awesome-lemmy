@@ -79,11 +79,11 @@ Name | Description | GitHub Activity | OS compatibility
 * [mlemgroup/mlem](@ghRepo) | iOS
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
+* [diegoberaldin/RaccoonForLemmy](@ghRepo) | Android
 * [bqv/slide](@ghRepo) | Android
 * [mdwalters/lemonade](@ghRepo) | Linux
-* [Athlon007/Leomard](@ghRepo) | MacOS
 * [BentonEdmondson/servitor](@ghRepo) | Linux
-* [diegoberaldin/RaccoonForLemmy](@ghRepo) | Android
+* [Athlon007/Leomard](@ghRepo) | MacOS
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
@@ -124,9 +124,9 @@ Name | Description | GitHub Activity
 * [FackJox/lemmy-link](@ghRepo)
 * [pkrasicki/lemmy-modern-ui-theme-addon](@ghRepo)
 * [azzurite/lemmy-universal-link-switcher](@glRepo)
-* [raicuparta/lemmy-go](@ghRepo)
 * [daniel-lxs/kbin-link](@ghRepo)
 * [Xyl-AU/Reddit-Comments-for-YouTube](@ghRepo)
+* [raicuparta/lemmy-go](@ghRepo)
 
 ### Tools
 
@@ -149,9 +149,10 @@ Name | Description | GitHub Activity
 * [mushroomlabs/fediverser](@ghRepo)
 * [fmstrat/lpp](@ghRepo)
 * [noenfugler/LemmyModBot](@ghRepo)
-* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
+* [db0/lemmy-tagginator](@ghRepo)
+* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [ornato-t/lemmy-automoderator](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
 * [db0/threativore](@ghRepo)
@@ -160,11 +161,11 @@ Name | Description | GitHub Activity
 * [RocketDerp/lemmy_helper](@ghRepo)
 * [Ategon/Lemmy-Frank-Bot](@ghRepo)
 * [peterwilli/lemmemovetolemmy](@ghRepo)
+* [RikudouSage/lemmyverse.link](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
 * [russjr08/lemmy-stats-exporter](@ghRepo)
-* [RikudouSage/lemmyverse.link](@ghRepo)
-* [PangoraWeb/pangora-recap](@ghRepo)
 * [ismailkarsli/lemmy-federate](@ghRepo)
+* [PangoraWeb/pangora-recap](@ghRepo)
 * [freamon/lemmy-trending-communities-bot](@ghRepo)
 * [arran4/lemmy_notify](@ghRepo)
 
