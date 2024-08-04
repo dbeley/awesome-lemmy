@@ -79,7 +79,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [mlemgroup/mlem](@ghRepo) | iOS
 * [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
-* [diegoberaldin/RaccoonForLemmy](@ghRepo) | Android
 * [bqv/slide](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [mdwalters/lemonade](@ghRepo) | Linux
