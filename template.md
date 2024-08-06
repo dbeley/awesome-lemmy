@@ -53,7 +53,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
-* [aeharding/voyager](@ghRepo) | [vger.app](https://vger.app/)
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [rystaf/mlmym](@ghRepo) |
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
@@ -70,6 +69,7 @@ Name | Description | GitHub Activity | URL
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
+* [aeharding/voyager](@ghRepo) | Android, iOS, Web
 * [dessalines/jerboa](@ghRepo) | Android
 * [thunder-app/thunder](@ghRepo) | Android, iOS
 * [memmy-app/memmy](@ghRepo) | iOS
