@@ -54,9 +54,8 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
-[**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | [vger.app](https://vger.app/)
 [photon](https://github.com/Xyphyn/photon) | A replacement for lemmy-ui with more features, a better design, and more customizability. | ![GitHub stars](https://img.shields.io/github/stars/Xyphyn/photon) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Xyphyn/photon) | [photon.xylight.dev](https://photon.xylight.dev)
-[mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) | [mlmym.org](https://mlmym.org/)
+[mlmym](https://github.com/rystaf/mlmym) | a familiar desktop experience for lemmy | ![GitHub stars](https://img.shields.io/github/stars/rystaf/mlmym) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rystaf/mlmym) |
 [alexandrite](https://github.com/sheodox/alexandrite) | A beautiful and convenient desktop-first alternate web UI for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/sheodox/alexandrite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sheodox/alexandrite) | [alexandrite.app](https://alexandrite.app/)
 [lemmyBB](https://github.com/LemmyNet/lemmyBB) | A federated bulletin board | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmyBB) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmyBB) | [fedibb.ml](https://fedibb.ml/)
 [slemmy](https://github.com/diamondburned/slemmy) | Lemmy client in Svelte | ![GitHub stars](https://img.shields.io/github/stars/diamondburned/slemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/diamondburned/slemmy) | [slemmy.libdb.so](https://slemmy.libdb.so/)
@@ -71,6 +70,7 @@ Name | Description | GitHub Activity | URL
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
+[**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | Android, iOS, Web
 [**jerboa**](https://github.com/LemmyNet/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/jerboa) | Android
 [**thunder**](https://github.com/thunder-app/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/thunder-app/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/thunder-app/thunder) | Android, iOS
 [**memmy**](https://github.com/Memmy-App/memmy) | An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play! | ![GitHub stars](https://img.shields.io/github/stars/Memmy-App/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Memmy-App/memmy) | iOS
