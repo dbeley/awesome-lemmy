@@ -55,7 +55,7 @@ Name | Description | GitHub Activity | URL
 ---- | ----------- | --------------- | ---
 * [aeharding/voyager](@ghRepo) | [vger.app](https://vger.app/)
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
-* [rystaf/mlmym](@ghRepo) | [mlmym.org](https://mlmym.org/)
+* [rystaf/mlmym](@ghRepo) |
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
