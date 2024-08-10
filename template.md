@@ -61,6 +61,7 @@ Name | Description | GitHub Activity | URL
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [cr4yfish/nemmy](@ghRepo) |
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
+* [asimons04/tesseract](@ghRepo) |
 * [Zetaphor/lemmy-loops](@ghRepo) |
 
 ### Mobile / Desktop apps
