@@ -62,6 +62,7 @@ Name | Description | GitHub Activity | URL
 [Leanish](https://github.com/NatoBoram/Leanish) | A lean-ish web client for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/NatoBoram/Leanish) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/NatoBoram/Leanish) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 [nemmy](https://github.com/cr4yfish/nemmy) | Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience. | ![GitHub stars](https://img.shields.io/github/stars/cr4yfish/nemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/cr4yfish/nemmy) |
 [lemmy-ui-svelte](https://github.com/ando818/lemmy-ui-svelte) | A UI for Lemmy written in Svelte  | ![GitHub stars](https://img.shields.io/github/stars/ando818/lemmy-ui-svelte) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ando818/lemmy-ui-svelte) | [createlab.io](https://createlab.io/)
+[tesseract](https://github.com/asimons04/tesseract) |  | ![GitHub stars](https://img.shields.io/github/stars/asimons04/tesseract) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/asimons04/tesseract) |
 [lemmy-loops](https://github.com/Zetaphor/lemmy-loops) | ∞Loops is a PWA client for the Lemmy network | ![GitHub stars](https://img.shields.io/github/stars/Zetaphor/lemmy-loops) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Zetaphor/lemmy-loops) |
 
 ### Mobile / Desktop apps
