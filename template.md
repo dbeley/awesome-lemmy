@@ -58,6 +58,7 @@ Name | Description | GitHub Activity | URL
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
 * [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
+* [Technicolor-Dreamcoat/Quiblr](@ghRepo) | [quiblr.com](https://quiblr.com/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [cr4yfish/nemmy](@ghRepo) |
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
