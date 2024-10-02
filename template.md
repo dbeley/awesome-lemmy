@@ -89,7 +89,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
-* [neatia/Loom](@ghRepo) | iOS, macOS
 * [lavalleeale/lemmios](@ghRepo) | iOS
 
 ### Libraries
