@@ -105,7 +105,7 @@ Name | Description | GitHub Activity
 * [tjkessler/plemmy](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
-* [hjiangsu/lemmy-dart](@ghRepo)
+* [thunder-app/lemmy_api_client](@ghRepo)
 * [SleeplessOne1917/lemmy-client-rs](@ghRepo) 
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API | ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2Fretiolus%2FLemmy.py&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)
 * [Rickebo/Lemmy.Net](@ghRepo)
