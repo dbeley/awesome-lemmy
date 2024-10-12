@@ -72,6 +72,7 @@ Name | Description | GitHub Activity | URL
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
+[**Echo**](https://echo.rrainn.com) | Echo for Lemmy - a fully native iOS Lemmy client | ![Download](https://echo.rrainn.com/download/iphone) | iOS
 [**voyager**](https://github.com/aeharding/voyager) | Voyager — a mobile-first Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/aeharding/voyager) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aeharding/voyager) | Android, iOS, Web
 [**jerboa**](https://github.com/LemmyNet/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/jerboa) | Android
 [**thunder**](https://github.com/thunder-app/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/thunder-app/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/thunder-app/thunder) | Android, iOS
