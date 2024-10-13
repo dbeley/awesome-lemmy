@@ -71,6 +71,7 @@ Name | Description | GitHub Activity | URL
 
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
+[Echo for Lemmy](https://echo.rrainn.com/download/iphone) | A fully native Lemmy iOS client | | iOS
 * [aeharding/voyager](@ghRepo) | Android, iOS, Web
 * [dessalines/jerboa](@ghRepo) | Android
 * [thunder-app/thunder](@ghRepo) | Android, iOS
