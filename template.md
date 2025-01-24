@@ -72,7 +72,7 @@ Name | Description | GitHub Activity | URL
 Name | Description | GitHub Activity | OS compatibility
 ---- | ----------- | --------------- | ----------------
 * [aeharding/voyager](@ghRepo) | Android, iOS, Web
-* [dessalines/jerboa](@ghRepo) | Android
+* [LemmyNet/jerboa](@ghRepo) | Android
 * [thunder-app/thunder](@ghRepo) | Android, iOS
 * [memmy-app/memmy](@ghRepo) | iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
@@ -83,7 +83,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [uuttff8/Remmel](@ghRepo) | iOS
 * [bqv/slide](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
-* [mdwalters/lemonade](@ghRepo) | Linux
+* [theycallhermax/lemonade](@ghRepo) | Linux
 * [Athlon007/Leomard](@ghRepo) | MacOS
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [freshfieldreds/muffed](@ghRepo) | Android, iOS
@@ -101,11 +101,11 @@ Name | Description | GitHub Activity
 * [LemmyNet/lemmy-js-client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
 * [rrainn/Lemmy-Swift-Client](@ghRepo)
-* [tjkessler/plemmy](@ghRepo)
+* [Fedihosting-Foundation/plemmy](@ghRepo)
 * [Elara6331/go-lemmy](@ghRepo)
 * [ydinkov/Lemmy.Net](@ghRepo)
 * [thunder-app/lemmy_api_client](@ghRepo)
-* [SleeplessOne1917/lemmy-client-rs](@ghRepo) 
+* [LemmyNet/lemmy-client-rs](@ghRepo) 
 [Lemmy.py](https://codeberg.org/retiolus/Lemmy.py) | Python bindings to the Lemmy API | ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2Fretiolus%2FLemmy.py&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)
 * [Rickebo/Lemmy.Net](@ghRepo)
 * [RikudouSage/LemmyApi](@ghRepo)
@@ -139,12 +139,12 @@ Name | Description | GitHub Activity
 * [tgxn/lemmy-explorer](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [marsara9/lemmy-search](@ghRepo)
-* [rileynull/RedditLemmyImporter](@ghRepo)
+* [mesmere/RedditLemmyImporter](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
-* [db0/lemmy-safety](@ghRepo)
+* [db0/fedi-safety](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
-* [Ategon/Lemmy-Mega-Bot](@ghRepo)
-* [ornato-t/lemmy-defed-investigator](@ghRepo)
+* [programming-dot-dev/rss-bot](@ghRepo)
+* [basedcount/defed-investigator](@ghRepo)
 * [mushroomlabs/fediverser](@ghRepo)
 * [fmstrat/lpp](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
@@ -152,7 +152,7 @@ Name | Description | GitHub Activity
 * [noenfugler/LemmyModBot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [db0/lemmy-tagginator](@ghRepo)
-* [ornato-t/lemmy-automoderator](@ghRepo)
+* [basedcount/lemmy-automoderator](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
 * [db0/threativore](@ghRepo)
 * [bunburya/lemmy2opml](@ghRepo)
