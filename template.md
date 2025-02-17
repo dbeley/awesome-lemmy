@@ -84,8 +84,9 @@ Name | Description | GitHub Activity | OS compatibility
 * [bqv/slide](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [theycallhermax/lemonade](@ghRepo) | Linux
-* [Athlon007/Leomard](@ghRepo) | MacOS
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
+* [Athlon007/Leomard](@ghRepo) | MacOS
+* [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
 * [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
