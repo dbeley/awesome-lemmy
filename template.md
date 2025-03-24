@@ -56,12 +56,12 @@ Name | Description | GitHub Activity | URL
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [rystaf/mlmym](@ghRepo) |
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
-* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [Technicolor-Dreamcoat/Quiblr](@ghRepo) | [quiblr.com](https://quiblr.com/)
+* [asimons04/tesseract](@ghRepo) |
+* [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [cr4yfish/nemmy](@ghRepo) |
 * [ando818/lemmy-ui-svelte](@ghRepo) | [createlab.io](https://createlab.io/)
-* [asimons04/tesseract](@ghRepo) |
 
 ### Mobile / Desktop apps
 
@@ -72,8 +72,8 @@ Name | Description | GitHub Activity | OS compatibility
 * [aeharding/voyager](@ghRepo) | Android, iOS, Web
 * [LemmyNet/jerboa](@ghRepo) | Android
 * [thunder-app/thunder](@ghRepo) | Android, iOS
-* [memmy-app/memmy](@ghRepo) | iOS
 * [mrusme/neonmodem](@ghRepo) | Linux
+* [memmy-app/memmy](@ghRepo) | iOS
 [Eternity](https://codeberg.org/Bazsalanszky/Eternity) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FEternity&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [mlemgroup/mlem](@ghRepo) | iOS
 * [BentonEdmondson/servitor](@ghRepo) | Linux
@@ -119,18 +119,18 @@ Name | Description | GitHub Activity
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
 * [Fmstrat/lcs](@ghRepo)
 * [db0/fedi-safety](@ghRepo)
-* [Ac5000/lemmy_account_sync](@ghRepo)
 * [programming-dot-dev/rss-bot](@ghRepo)
+* [Ac5000/lemmy_account_sync](@ghRepo)
 * [basedcount/defed-investigator](@ghRepo)
 * [mushroomlabs/fediverser](@ghRepo)
-* [fmstrat/lpp](@ghRepo)
 * [RikudouSage/LemmySchedule](@ghRepo)
+* [fmstrat/lpp](@ghRepo)
+* [db0/threativore](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
-* [noenfugler/LemmyModBot](@ghRepo)
 * [LemmyNet/lemmy-stats-crawler](@ghRepo)
+* [noenfugler/LemmyModBot](@ghRepo)
 * [db0/lemmy-tagginator](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
-* [db0/threativore](@ghRepo)
 * [RikudouSage/lemmyverse.link](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
 * [ismailkarsli/lemmy-federate](@ghRepo)
