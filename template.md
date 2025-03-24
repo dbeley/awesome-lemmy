@@ -56,7 +56,6 @@ Name | Description | GitHub Activity | URL
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [rystaf/mlmym](@ghRepo) |
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
-* [LemmyNet/lemmyBB](@ghRepo) | [fedibb.ml](https://fedibb.ml/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [Technicolor-Dreamcoat/Quiblr](@ghRepo) | [quiblr.com](https://quiblr.com/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
@@ -79,7 +78,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [liftoff-app/liftoff](@ghRepo) | Android, iOS
 [Eternity](https://codeberg.org/Bazsalanszky/Eternity) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FEternity&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [mlemgroup/mlem](@ghRepo) | iOS
-* [lemmygtk/lemoa](@ghRepo) | Linux
 * [uuttff8/Remmel](@ghRepo) | iOS
 * [bqv/slide](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
@@ -87,7 +85,6 @@ Name | Description | GitHub Activity | OS compatibility
 * [mani-sh-reddy/Lunar](@ghRepo) | iOS
 * [Athlon007/Leomard](@ghRepo) | MacOS
 * [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
-* [freshfieldreds/muffed](@ghRepo) | Android, iOS
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [mdpearce/warami](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
