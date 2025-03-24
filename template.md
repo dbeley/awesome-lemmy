@@ -38,6 +38,7 @@ Name | Description | GitHub Activity
 * [LemmyNet/lemmy](@ghRepo)
 * [LemmyNet/lemmy-ui](@ghRepo)
 * [LemmyNet/lemmy-ansible](@ghRepo)
+* [LemmyNet/lemmy-plugins](@ghRepo)
 
 ### Instances
 
@@ -79,6 +80,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [theycallhermax/lemonade](@ghRepo) | Linux
 * [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
+* [jwr1/interstellar](@ghRepo) | Android, Linux, Windows
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
 
@@ -88,6 +90,7 @@ Name | Description | GitHub Activity | OS compatibility
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+* [LemmyNet/activitypub-federation-rust](@ghRepo)
 * [LemmyNet/lemmy-js-client](@ghRepo)
 * [db0/pythorhead](@ghRepo)
 * [Fedihosting-Foundation/plemmy](@ghRepo)
