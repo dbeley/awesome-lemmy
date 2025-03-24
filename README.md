@@ -39,6 +39,7 @@ Name | Description | GitHub Activity
 [**lemmy**](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy)
 [**lemmy-ui**](https://github.com/LemmyNet/lemmy-ui) | The official web app for lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ui) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ui)
 [lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) | A docker deploy for ansible | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ansible) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ansible)
+[lemmy-plugins](https://github.com/LemmyNet/lemmy-plugins) |  | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-plugins) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-plugins)
 
 ### Instances
 
@@ -80,6 +81,7 @@ Name | Description | GitHub Activity | OS compatibility
 [servitor](https://github.com/BentonEdmondson/servitor) | A command-line Fediverse client that doesn’t require a server | ![GitHub stars](https://img.shields.io/github/stars/BentonEdmondson/servitor) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/BentonEdmondson/servitor) | Linux
 [lemonade](https://github.com/theycallhermax/lemonade) | 🍋 Follow discussions on Lemmy | ![GitHub stars](https://img.shields.io/github/stars/theycallhermax/lemonade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/theycallhermax/lemonade) | Linux
 [RaccoonForLemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) | A Kotlin Multiplatform client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/LiveFastEatTrashRaccoon/RaccoonForLemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LiveFastEatTrashRaccoon/RaccoonForLemmy) | Android
+[interstellar](https://github.com/jwr1/interstellar) | An app for Mbin/Lemmy/PieFed, connecting you to the fediverse. | ![GitHub stars](https://img.shields.io/github/stars/jwr1/interstellar) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jwr1/interstellar) | Android, Linux, Windows
 [lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | Arctius is a simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec) | Android
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
 
@@ -89,6 +91,7 @@ Name | Description | GitHub Activity | OS compatibility
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+[activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) | High-level Rust library for the Activitypub protocol | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/activitypub-federation-rust) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/activitypub-federation-rust)
 [lemmy-js-client](https://github.com/LemmyNet/lemmy-js-client) | A javascript / typescript http and websocket client and type system for Lemmy. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-js-client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-js-client)
 [pythorhead](https://github.com/db0/pythorhead) | A python library for interacting with Lemmy | ![GitHub stars](https://img.shields.io/github/stars/db0/pythorhead) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/db0/pythorhead)
 [plemmy](https://github.com/Fedihosting-Foundation/plemmy) | A Python package for accessing the LemmyHttp API | ![GitHub stars](https://img.shields.io/github/stars/Fedihosting-Foundation/plemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Fedihosting-Foundation/plemmy)
