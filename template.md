@@ -82,6 +82,7 @@ Name | Description | GitHub Activity | OS compatibility
 * [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
 * [jwr1/interstellar](@ghRepo) | Android, Linux, Windows
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
+* [idunnololz/summit-for-lemmy](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
 
 ### Libraries
