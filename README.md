@@ -83,6 +83,7 @@ Name | Description | GitHub Activity | OS compatibility
 [RaccoonForLemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) | A Kotlin Multiplatform client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/LiveFastEatTrashRaccoon/RaccoonForLemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LiveFastEatTrashRaccoon/RaccoonForLemmy) | Android
 [interstellar](https://github.com/jwr1/interstellar) | An app for Mbin/Lemmy/PieFed, connecting you to the fediverse. | ![GitHub stars](https://img.shields.io/github/stars/jwr1/interstellar) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jwr1/interstellar) | Android, Linux, Windows
 [lemmy-fennec](https://github.com/nick-delirium/lemmy-fennec) | Arctius is a simple and accessible mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/nick-delirium/lemmy-fennec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nick-delirium/lemmy-fennec) | Android
+[summit-for-lemmy](https://github.com/idunnololz/summit-for-lemmy) | A mobile client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/idunnololz/summit-for-lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/idunnololz/summit-for-lemmy) | Android
 [Lemmios](https://github.com/lavalleeale/Lemmios) | Lemmios | ![GitHub stars](https://img.shields.io/github/stars/lavalleeale/Lemmios) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lavalleeale/Lemmios) | iOS
 
 ### Libraries
