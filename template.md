@@ -140,6 +140,7 @@ Name | Description | GitHub Activity
 * [ismailkarsli/lemmy-federate](@ghRepo)
 * [PangoraWeb/pangora-recap](@ghRepo)
 * [arran4/lemmy_notify](@ghRepo)
+* [QazCetelic/lemmy-know](@ghRepo)
 
 ### Guides
 
