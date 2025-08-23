@@ -77,12 +77,13 @@ Name | Description | GitHub Activity | OS compatibility
 * [memmy-app/memmy](@ghRepo) | iOS
 [Eternity](https://codeberg.org/Bazsalanszky/Eternity) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FEternity&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [mlemgroup/mlem](@ghRepo) | iOS
+* [jwr1/interstellar](@ghRepo) | Android, Linux, Windows
+* [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [theycallhermax/lemonade](@ghRepo) | Linux
-* [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
-* [jwr1/interstellar](@ghRepo) | Android, Linux, Windows
-* [nick-delirium/lemmy-fennec](@ghRepo) | Android
+* [christianjuth/blorp](@ghRepo) | Android, iOS
 * [idunnololz/summit-for-lemmy](@ghRepo) | Android
+* [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
 
 ### Libraries
