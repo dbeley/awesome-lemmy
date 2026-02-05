@@ -57,8 +57,8 @@ Name | Description | GitHub Activity | URL
 * [Xyphyn/photon](@ghRepo) | [photon.xylight.dev](https://photon.xylight.dev)
 * [rystaf/mlmym](@ghRepo) |
 * [sheodox/alexandrite](@ghRepo) | [alexandrite.app](https://alexandrite.app/)
-* [Technicolor-Dreamcoat/Quiblr](@ghRepo) | [quiblr.com](https://quiblr.com/)
 * [asimons04/tesseract](@ghRepo) |
+* [Technicolor-Dreamcoat/Quiblr](@ghRepo) | [quiblr.com](https://quiblr.com/)
 * [diamondburned/slemmy](@ghRepo) | [slemmy.libdb.so](https://slemmy.libdb.so/)
 * [NatoBoram/Leanish](@ghRepo) | [natoboram.github.io/Leanish](https://natoboram.github.io/Leanish)
 * [cr4yfish/nemmy](@ghRepo) |
@@ -78,10 +78,10 @@ Name | Description | GitHub Activity | OS compatibility
 [Eternity](https://codeberg.org/Bazsalanszky/Eternity) | A Lemmy client forked from the Infinity for Reddit project |![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fcodeberg.org%2FBazsalanszky%2FEternity&query=%2F%2Fa%5B%40class%3D%22ui%20basic%20label%22%20and%20contains(%40href%2C%20%22%2Fstars%22)%5D%2Ftext()&label=stars)| Android
 * [mlemgroup/mlem](@ghRepo) | iOS
 * [jwr1/interstellar](@ghRepo) | Android, Linux, Windows
+* [christianjuth/blorp](@ghRepo) | Android, iOS
 * [LiveFastEatTrashRaccoon/RaccoonForLemmy](@ghRepo) | Android
 * [BentonEdmondson/servitor](@ghRepo) | Linux
 * [theycallhermax/lemonade](@ghRepo) | Linux
-* [christianjuth/blorp](@ghRepo) | Android, iOS
 * [idunnololz/summit-for-lemmy](@ghRepo) | Android
 * [nick-delirium/lemmy-fennec](@ghRepo) | Android
 * [lavalleeale/lemmios](@ghRepo) | iOS
@@ -119,11 +119,11 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [CMahaff/lasim](@ghRepo)
 * [ubergeek77/Lemmy-Easy-Deploy](@ghRepo)
-* [wescode/lemmy_migrate](@ghRepo)
 * [tgxn/lemmy-explorer](@ghRepo)
+* [wescode/lemmy_migrate](@ghRepo)
 * [SleeplessOne1917/lemmy-bot](@ghRepo)
-* [Fmstrat/lcs](@ghRepo)
 * [db0/fedi-safety](@ghRepo)
+* [Fmstrat/lcs](@ghRepo)
 * [programming-dot-dev/rss-bot](@ghRepo)
 * [Ac5000/lemmy_account_sync](@ghRepo)
 * [basedcount/defed-investigator](@ghRepo)
@@ -131,14 +131,14 @@ Name | Description | GitHub Activity
 * [RikudouSage/LemmySchedule](@ghRepo)
 * [fmstrat/lpp](@ghRepo)
 * [db0/threativore](@ghRepo)
+* [RikudouSage/lemmyverse.link](@ghRepo)
+* [ismailkarsli/lemmy-federate](@ghRepo)
 * [Elara6331/lemmy-reply-bot](@ghRepo)
-* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [noenfugler/LemmyModBot](@ghRepo)
+* [LemmyNet/lemmy-stats-crawler](@ghRepo)
 * [db0/lemmy-tagginator](@ghRepo)
 * [tgxn/lemmy-modder](@ghRepo)
-* [RikudouSage/lemmyverse.link](@ghRepo)
 * [sab_from_earth/lemmit](@glRepo)
-* [ismailkarsli/lemmy-federate](@ghRepo)
 * [PangoraWeb/pangora-recap](@ghRepo)
 * [arran4/lemmy_notify](@ghRepo)
 * [QazCetelic/lemmy-know](@ghRepo)
