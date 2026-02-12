@@ -118,6 +118,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+[Cloud Seeder](https://ipv6.rs/cloudseeder) | 1-click installer for Lemmy on Windows, MacOS and Linux | ![GitHub stars](https://img.shields.io/github/stars/ipv6rslimited/cloudseeder) [!GitHub commit activity](https://img.shields.io/github/commit-activity/y/ipv6rslimited/cloudseeder)
 [lasim](https://github.com/CMahaff/lasim) | Move your Lemmy settings from one account to another | ![GitHub stars](https://img.shields.io/github/stars/CMahaff/lasim) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CMahaff/lasim)
 [Lemmy-Easy-Deploy](https://github.com/ubergeek77/Lemmy-Easy-Deploy) | Deploy Lemmy the easy way! | ![GitHub stars](https://img.shields.io/github/stars/ubergeek77/Lemmy-Easy-Deploy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ubergeek77/Lemmy-Easy-Deploy)
 [lemmy-explorer](https://github.com/tgxn/lemmy-explorer) | Instance and Community Explorer for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/tgxn/lemmy-explorer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tgxn/lemmy-explorer)
